@@ -1,0 +1,27 @@
+# Barren Skies test pack — allowlist model.
+# A Minecraft instance sprouts new junk directories constantly (caches, saves,
+# crash dumps), so ignore everything at the root and re-add only what is pack
+# configuration. Nested content under an un-ignored directory is tracked.
+
+/*
+
+!/.gitignore
+!/README.md
+!/.gitattributes
+!/tools/
+!/config/
+!/defaultconfigs/
+!/datapacks/
+!/mods/
+!/options.txt
+
+# Mod jars are ~271 MB and all re-downloadable. Track the manifest, not the bits.
+/mods/*
+!/mods/modlist.md
+
+# Machine-specific / not worth publishing
+/config/sodium-fingerprint.json
+/config/resourceful-config-web.json
+
+# Backup files mods leave behind
+*.bak

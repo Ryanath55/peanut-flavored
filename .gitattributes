@@ -1,0 +1,4 @@
+# Store every file exactly as it sits on disk. Mods rewrite their own config
+# files with whichever line ending they feel like, and normalizing would both
+# churn diffs and break tools/*.sh under bash.
+* -text
