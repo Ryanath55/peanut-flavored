@@ -21,11 +21,19 @@ operate on the same files — change a config in-game and it shows up in
 
 ## Everyday use
 
+**packwiz does not download jars.** It only writes the record. Your game loads
+whatever `.jar` files are physically in `mods/`, and those are still the Modrinth
+launcher's job. So every mod change is two steps: change the jar, then tell
+packwiz.
+
 Add a mod:
 
-```
-packwiz modrinth add <slug-or-url>
-```
+1. Install it in the Modrinth app as usual, so the jar lands in `mods/`.
+2. Record it: `packwiz modrinth add <slug-or-url>`
+3. `packwiz refresh`
+
+Remove a mod: delete it in the Modrinth app, then `packwiz remove <slug>`,
+then `packwiz refresh`.
 
 Update everything, or one mod:
 
@@ -34,11 +42,13 @@ packwiz update --all
 packwiz update <mod>
 ```
 
-After any mod change, refresh the index and re-sync the register:
+This rewrites the `.pw.toml` records only — the launcher still has the old jars
+until you update them there too.
+
+After any mod change, re-sync the register:
 
 ```
-packwiz refresh
-py packreg.py sync
+py -3.12 packreg.py sync
 ```
 
 Hand the pack to someone:
