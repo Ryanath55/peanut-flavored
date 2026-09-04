@@ -1,0 +1,13 @@
+name = "Cookielicious"
+filename = "Cookielicious-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4lajSdF7/versions/HlIfUb0z/Cookielicious-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "7a534bae8698953750605a8feab6c2a27958626a735b1c307d2fa3eacad6090a62f6a7e67be80011fe14a5815219ba748eb658890a9b6992b500120f14b16993"
+
+[update]
+[update.modrinth]
+mod-id = "4lajSdF7"
+version = "HlIfUb0z"

@@ -1,0 +1,13 @@
+name = "Barren Skies Test Pack"
+author = "Ryanath55"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "598d68e4c980a74280e64fbd8969c49392c7a8247719cbe5e45c1d6735e0e029"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

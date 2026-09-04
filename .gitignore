@@ -6,8 +6,11 @@
 /*
 
 !/.gitignore
-!/README.md
 !/.gitattributes
+!/.packwizignore
+!/README.md
+!/REGISTER.md
+!/packreg.py
 !/tools/
 !/config/
 !/defaultconfigs/
@@ -15,9 +18,14 @@
 !/mods/
 !/options.txt
 
-# Mod jars are ~271 MB and all re-downloadable. Track the manifest, not the bits.
+# packwiz pack definition
+!/pack.toml
+!/index.toml
+
+# Mod jars are ~271 MB and all re-downloadable. packwiz tracks each mod as a
+# small .pw.toml holding its project id, version id, URL and hash.
 /mods/*
-!/mods/modlist.md
+!/mods/*.pw.toml
 
 # Machine-specific / not worth publishing
 /config/sodium-fingerprint.json

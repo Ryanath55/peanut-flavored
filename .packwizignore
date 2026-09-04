@@ -1,0 +1,48 @@
+# What packwiz should NOT ship in the distributable pack.
+# Mirrors .gitignore's intent, but this one governs the exported .mrpack:
+# config files SHOULD ship, personal state and raw jars should not.
+
+# Raw jars — packwiz tracks them as mods/*.pw.toml instead
+/mods/*.jar
+/mods/*.jar.disabled
+/mods/modlist.md
+
+# Launcher / runtime output
+/saves/
+/logs/
+/screenshots/
+/crash-reports/
+/debug/
+/downloads/
+/.cache/
+/.mixin.out/
+/.sable/
+/dynamic-resource-pack-cache/
+/moonlight-global-datapacks/
+/data/
+/schematics/
+
+# Third-party redistributables, not ours to ship
+/shaderpacks/
+/resourcepacks/
+
+# Personal state
+/options.txt
+/usercache.json
+/usernamecache.json
+/emi.json
+/ponders_watched.json
+/command_history.txt
+/config/sodium-fingerprint.json
+/config/resourceful-config-web.json
+*.bak
+
+# Repo furniture
+/.git/
+/.gitignore
+/.gitattributes
+/.packwizignore
+/README.md
+/REGISTER.md
+/packreg.py
+/tools/

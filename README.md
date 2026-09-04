@@ -1,57 +1,89 @@
-# Barren Skies test pack
+# Barren Skies Test Pack
 
-The Modrinth profile used to test the [Barren Skies](https://github.com/) mod.
-NeoForge, Minecraft 1.21.1.
-
-This repository lives **inside** the live Modrinth profile
+A NeoForge 1.21.1 modpack, managed with [packwiz](https://packwiz.infra.link/)
+and kept in git. This repository lives **inside** the live Modrinth profile
 (`%APPDATA%\ModrinthApp\profiles\New instance (1)`), so the launcher and git
-operate on the same files — edit a config in-game and it shows up in
+operate on the same files — change a config in-game and it shows up in
 `git status`.
 
-## What is tracked
+- Minecraft **1.21.1**, NeoForge **21.1.248**
+- 65 mods, every one pinned to an exact version by project id and SHA512
 
-| Path | Why |
+## Layout
+
+| Path | What it is |
 | --- | --- |
-| `config/`, `defaultconfigs/` | The actual pack tuning. This is the point of the repo. |
-| `datapacks/` | Pack-local datapacks. |
-| `mods/modlist.md` | The mod manifest — exact jar versions, active and disabled. |
-| `options.txt` | Client settings (keybinds, video, resource pack order). |
-| `tools/` | Maintenance scripts. |
+| `pack.toml` | The pack's ID card — name, author, version, MC/loader versions. |
+| `index.toml` | packwiz bookkeeping: every tracked file and its hash. |
+| `mods/*.pw.toml` | One small text file per mod: project id, version id, download URL, hash. No jars. |
+| `config/`, `defaultconfigs/` | The pack tuning. Ships with the pack. |
+| `packreg.py`, `REGISTER.md` | The mod register — why each mod is here. See [PACKREG.md](PACKREG.md). |
+
+## Everyday use
+
+Add a mod:
+
+```
+packwiz modrinth add <slug-or-url>
+```
+
+Update everything, or one mod:
+
+```
+packwiz update --all
+packwiz update <mod>
+```
+
+After any mod change, refresh the index and re-sync the register:
+
+```
+packwiz refresh
+py packreg.py sync
+```
+
+Hand the pack to someone:
+
+```
+packwiz modrinth export
+```
+
+That writes a `.mrpack` they can import into the Modrinth launcher. It contains
+the metadata and configs — their launcher downloads the jars.
+
+## Environment notes
+
+`packwiz.exe` lives in `~/bin`, which is already on PATH.
+
+Use **`py`**, not `python` or `python3` — the bare names hit a Microsoft Store
+stub on this machine. Note that `PACKREG.md` and its pre-commit hook were
+written assuming `python3`; substitute `py`.
+
+`packreg.py` needs **Python 3.11+** for `tomllib`. This machine has 3.10.7, so
+it will not run yet.
 
 ## What is not tracked, and why
 
-- **`mods/*.jar`** — ~271 MB, all re-downloadable from Modrinth. `mods/modlist.md`
-  records the exact versions instead.
-- **`saves/`** (~342 MB), **`screenshots/`** (~362 MB), **`logs/`**,
-  **`crash-reports/`**, **`debug/`**, **`.cache/`**, **`.mixin.out/`** — output,
-  not input.
-- **`shaderpacks/`** — third-party redistributables.
+- **`mods/*.jar`** — ~271 MB, all re-downloadable. The `.pw.toml` files record
+  exactly which version each one was, so nothing is lost.
+- **`saves/`**, **`screenshots/`**, **`logs/`**, **`crash-reports/`**,
+  **`debug/`**, **`.cache/`**, **`.mixin.out/`** — output, not input.
+- **`shaderpacks/`**, **`resourcepacks/`** — third-party redistributables.
 - **`config/sodium-fingerprint.json`** — a hardware fingerprint for this machine.
 - **`config/resourceful-config-web.json`** — holds a generated password for the
   local config web panel.
 
-The `.gitignore` works by **allowlist**: everything at the repo root is ignored,
-and tracked paths are re-added one by one. A Minecraft instance grows new
-directories on its own, and this way none of them get committed by accident.
-Adding a new tracked path means adding a `!` line for it.
+`.gitignore` works by **allowlist**: everything at the root is ignored and
+tracked paths are re-added one by one, because a Minecraft instance grows new
+directories on its own. Adding a new tracked path means adding a `!` line.
 
-## Rebuilding this pack from scratch
-
-1. Create a NeoForge 1.21.1 profile in the Modrinth app.
-2. Download every jar in `mods/modlist.md` at the listed version. Rename the
-   ones under "Disabled" to end in `.jar.disabled`.
-3. Clone this repo over the profile directory.
-
-## After changing mods
-
-```bash
-bash tools/update-modlist.sh
-git add -A && git commit -m "Update mod list"
-```
+`.packwizignore` is the separate question of what ships in an exported pack —
+configs yes, personal state and raw jars no.
 
 ## Known gap
 
-The manifest records filenames, not Modrinth project/version IDs, so step 2
-above is a manual search rather than a scripted restore. The IDs live in the
-launcher's `app.db`; extracting them is a future improvement if the pack ever
-needs to be reproducible by someone else.
+`barrenskies-1.37.0.jar` is not in the pack index. It is Ryan's own mod, not
+published on Modrinth, so packwiz has nothing to point at. It sits in `mods/`
+as a plain jar and will **not** be included in an export. Fix that by attaching
+the jar to a GitHub release on
+[Ryanath55/BarrenSkies](https://github.com/Ryanath55/BarrenSkies) and adding a
+`.pw.toml` with that download URL.
