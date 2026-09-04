@@ -111,6 +111,18 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## barrenskies
+<!-- packreg:auto -->
+- File: `barrenskies-1.37.0.jar`
+- Source: direct url
+- Side: both
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack -->
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## berry-good
 <!-- packreg:auto -->
 - File: `berry_good-1.21.1-8.0.1.jar`

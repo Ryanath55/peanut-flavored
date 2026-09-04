@@ -621,6 +621,11 @@ hash = "4b272e27bc83062b9e5af6c597b002bad58088f1aba0f14736f30ca37c40d959"
 metafile = true
 
 [[files]]
+file = "mods/barrenskies.pw.toml"
+hash = "ca7d51247c42a536a24b9e76bbbe80106a9b074513fd74051b0c1e64fb44c0b5"
+metafile = true
+
+[[files]]
 file = "mods/berry-good.pw.toml"
 hash = "093abe6db61cc854c7bcd46a3e0bec69fb03af507a8afcc3fdf25e1a58aa6aa6"
 metafile = true

@@ -1,0 +1,15 @@
+name = "BarrenSkies"
+filename = "barrenskies-1.37.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ryanath55/BarrenSkies/releases/download/v1.37.0/barrenskies-1.37.0.jar"
+hash-format = "sha256"
+hash = "184d39ac2fb9bedbb0a063b788da20f7f69d0485265f3f25f254426093af6735"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Ryanath55/BarrenSkies"
+tag = "v1.37.0"

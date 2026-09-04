@@ -7,7 +7,7 @@ operate on the same files — change a config in-game and it shows up in
 `git status`.
 
 - Minecraft **1.21.1**, NeoForge **21.1.248**
-- 65 mods, every one pinned to an exact version by project id and SHA512
+- 66 mods, every one pinned to an exact version by project id and hash
 
 ## Layout
 
@@ -89,11 +89,15 @@ directories on its own. Adding a new tracked path means adding a `!` line.
 `.packwizignore` is the separate question of what ships in an exported pack —
 configs yes, personal state and raw jars no.
 
-## Known gap
+## Barren Skies itself
 
-`barrenskies-1.37.0.jar` is not in the pack index. It is Ryan's own mod, not
-published on Modrinth, so packwiz has nothing to point at. It sits in `mods/`
-as a plain jar and will **not** be included in an export. Fix that by attaching
-the jar to a GitHub release on
-[Ryanath55/BarrenSkies](https://github.com/Ryanath55/BarrenSkies) and adding a
-`.pw.toml` with that download URL.
+The mod this pack exists to test is tracked like any other mod, pulled from its
+GitHub release rather than Modrinth:
+
+```
+packwiz github add Ryanath55/BarrenSkies
+```
+
+`packwiz update barrenskies` picks up new releases. Publish a release on
+[Ryanath55/BarrenSkies](https://github.com/Ryanath55/BarrenSkies) first — a
+pushed commit is not a release, and packwiz can only see releases.
