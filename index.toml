@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "PACKREG.md"
-hash = "af9352e50d458948e50a04bc228620af63748d685bd6367732a3c6e843ec8385"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "e4749997d47a60140f8aba7da180f8d4e2b6b07315e63e7337a904d5ee42810e"
 
