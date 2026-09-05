@@ -781,11 +781,6 @@ hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]
-file = "mods/modest-mining.pw.toml"
-hash = "01484919684d8236f0eba2097b4fe27921d7f7e39bdede26606d09299858de14"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "8d85f2539ba16cd48e26c3c09ed7601c8999ff36ebf893f2a5c2df9c5c93dcb1"
 metafile = true

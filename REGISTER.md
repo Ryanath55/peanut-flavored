@@ -14,9 +14,9 @@ is here, that is the finding.
 - Version id: `FTg86KNz`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
+**Purpose:** <!-- why this mod is in the pack --> Adds integration between Team Abnormals' mods and Farmers Delight
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults --> 
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## alfinolib
@@ -27,8 +27,8 @@ is here, that is the finding.
 - Version id: `T3iUMjhn`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod, is a depenpendancy for immersive Enchanting
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothinh
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -40,10 +40,10 @@ is here, that is the finding.
 - Version id: `LPWZjZvj`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds additional enchntments
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> no conflicts, but will need to be connected to immersice enchanting 
 
 ## ambientsounds
 <!-- packreg:auto -->
@@ -53,8 +53,8 @@ is here, that is the finding.
 - Version id: `RZyxhsqY`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds ambient sounds like wind, birds chirping, etc. 
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> ambient sounds
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -66,8 +66,8 @@ is here, that is the finding.
 - Version id: `agiByWs3`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> alters how the terrain generates in the nether making it larger and more varried
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nether terrain
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -80,8 +80,8 @@ is here, that is the finding.
 - CHECK: filename mentions 1.21 but pack targets 1.21.1
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> mainly adds a small visual to indicate the saturation level of food eaten. 
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -93,10 +93,10 @@ is here, that is the finding.
 - Version id: `XIvPRE4O`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds new biomes, with special mobs and items.
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> see blueprint
 
 ## autumnity
 <!-- packreg:auto -->
@@ -106,10 +106,10 @@ is here, that is the finding.
 - Version id: `9jUNvDKx`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Purpose:** <!-- why this mod is in the pack --> adds new autumnal biomes, and with special mobs and items.
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->  nothing
+**Config:** <!-- what you changed away from defaults -->  
+**Conflicts:** <!-- known overlaps and how they were resolved --> see blueprint
 
 ## barrenskies
 <!-- packreg:auto -->
@@ -118,10 +118,10 @@ is here, that is the finding.
 - Side: both
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Purpose:** <!-- why this mod is in the pack --> creates a unique world type for this pack. an arrid and ocean surface with flying island above with all the other biomes\
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> overworld terrain shape and biome placement.\
+**Config:** <!-- what you changed away from defaults --> island ore generation set to 50. waterfall only over water set to true\
+**Conflicts:** <!-- known overlaps and how they were resolved --> updated to be compatable with terralith and team abnormal's bluebrint mod - resolved
 
 ## berry-good
 <!-- packreg:auto -->
@@ -131,8 +131,8 @@ is here, that is the finding.
 - Version id: `C8Scxj1h`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> slight adjustments to how sweet berries work
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -144,9 +144,9 @@ is here, that is the finding.
 - Version id: `maXNB1dn`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
+**Purpose:** <!-- why this mod is in the pack --> improves the style and customization of the F3 debug screen
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> F3
+**Config:** <!-- what you changed away from defaults --> reduced text size to 0.75. more changes to come. 
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## blueprint
@@ -157,10 +157,10 @@ is here, that is the finding.
 - Version id: `LMGtMapI`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod of some of team Abnorma's mods, focuses on a custom biome spawn rules
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> was conflicting with Barren skies biome placement - resolved
 
 ## buzzier-bees
 <!-- packreg:auto -->
@@ -170,8 +170,8 @@ is here, that is the finding.
 - Version id: `Y12rtT96`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds aditiional content for bees
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -183,8 +183,8 @@ is here, that is the finding.
 - Version id: `SpFNxWZa`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> primarily adds the kiln, which acts like a blast furnace but for stone, adds new building blocks
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> stone smelting? 
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -196,8 +196,8 @@ is here, that is the finding.
 - Version id: `izKINKFg`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod that adds tools for making config screens
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> configs
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -209,8 +209,8 @@ is here, that is the finding.
 - Version id: `HlIfUb0z`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds cookies
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -222,8 +222,8 @@ is here, that is the finding.
 - Version id: `UjX6dr61`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> The machine/autimation mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> machines/autimation
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -235,8 +235,8 @@ is here, that is the finding.
 - Version id: `Vzp221Un`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> flying stuff
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> flight
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -248,8 +248,8 @@ is here, that is the finding.
 - Version id: `JX9o5pJD`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -262,8 +262,8 @@ is here, that is the finding.
 - CHECK: filename mentions 'fabric', pack targets 'neoforge'
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> LOD mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> LODs
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -276,8 +276,8 @@ is here, that is the finding.
 - CHECK: filename mentions 1.21.0 but pack targets 1.21.1
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> reduce resource usage while Minecraft is in the background, idle, or on battery
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -289,8 +289,8 @@ is here, that is the finding.
 - Version id: `5sIPA1To`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> recipe look up system
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> recipies 
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -302,8 +302,8 @@ is here, that is the finding.
 - Version id: `TH9YXp9r`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds enderman varients
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> endermen?
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -315,8 +315,8 @@ is here, that is the finding.
 - Version id: `5S67w5gs`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack -->  Farmer's Delight addon for the end
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -328,8 +328,8 @@ is here, that is the finding.
 - Version id: `5zRIon6w`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> performance 
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing 
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -341,8 +341,8 @@ is here, that is the finding.
 - Version id: `NdDV1AM8`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds new biomes, with special mobs and items.
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing 
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -354,8 +354,8 @@ is here, that is the finding.
 - Version id: `XTVZDOol`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> MC's big farming mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> cooking/farming
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -367,8 +367,8 @@ is here, that is the finding.
 - Version id: `x7kQWVju`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -381,8 +381,8 @@ is here, that is the finding.
 - CHECK: filename mentions 'fabric', pack targets 'neoforge'
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> Library mod that allows some fabric mods to work on neoforge
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -394,8 +394,8 @@ is here, that is the finding.
 - Version id: `HzOpAks9`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> quality-of-life features for paintings
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -407,8 +407,8 @@ is here, that is the finding.
 - Version id: `tPkJmim6`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -420,8 +420,8 @@ is here, that is the finding.
 - Version id: `xcQYt0Uy`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> performance
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -434,10 +434,10 @@ is here, that is the finding.
 - CHECK: pre-release build
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> enchanting overhaul that encurages players to explore
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> enchanting
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> any mod that adds an enchantment will need to be hooked up to this mod
 
 ## incubation
 <!-- packreg:auto -->
@@ -447,8 +447,8 @@ is here, that is the finding.
 - Version id: `4iwA7bGH`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> does stuff with eggs
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -461,8 +461,8 @@ is here, that is the finding.
 - CHECK: pre-release build
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds custom shaders
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> shaders
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -474,8 +474,8 @@ is here, that is the finding.
 - Version id: `uhJhCT7X`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -487,8 +487,8 @@ is here, that is the finding.
 - Version id: `DDUrRVCA`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> performance
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -501,8 +501,8 @@ is here, that is the finding.
 - CHECK: pre-release build
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> biome/terrain compatibility mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -515,8 +515,8 @@ is here, that is the finding.
 - CHECK: filename mentions 1.21 but pack targets 1.21.1
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> vanilla+ minimap mod with books and maps
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> maps
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -528,21 +528,8 @@ is here, that is the finding.
 - Version id: `VsJnrw8k`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
-
-## modest-mining
-<!-- packreg:auto -->
-- File: `modestmining-1.21.1-1.4.1.jar`
-- Source: modrinth (`5QcDoykP`)
-- Side: both
-- Version id: `hrl7OOnd`
-<!-- /packreg:auto -->
-
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> performance
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -872,6 +859,21 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack -->
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## modest-mining
+> **STALE** - no longer present in the pack.
+
+<!-- packreg:auto -->
+- File: `modestmining-1.21.1-1.4.1.jar`
+- Source: modrinth (`5QcDoykP`)
+- Side: both
+- Version id: `hrl7OOnd`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> changes some things about mininng honestly I think im gonna remove it. 
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
