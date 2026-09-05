@@ -83,7 +83,7 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> mainly adds a small visual to indicate the saturation level of food eaten. 
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
 ## atmospheric
 <!-- packreg:auto -->
@@ -265,7 +265,7 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> LOD mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> LODs
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
 
 ## dynamic-fps
 <!-- packreg:auto -->
@@ -279,7 +279,7 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> reduce resource usage while Minecraft is in the background, idle, or on battery
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
 ## emi
 <!-- packreg:auto -->
@@ -384,7 +384,7 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> Library mod that allows some fabric mods to work on neoforge
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
 
 ## gallery
 <!-- packreg:auto -->
@@ -464,7 +464,7 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> adds custom shaders
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> shaders
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> pre-release
 
 ## kotlin-for-forge
 <!-- packreg:auto -->
@@ -504,7 +504,7 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> biome/terrain compatibility mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> pre-release
 
 ## map-atlases-forge
 <!-- packreg:auto -->
@@ -518,7 +518,7 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> vanilla+ minimap mod with books and maps
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> maps
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
 ## modernfix
 <!-- packreg:auto -->
@@ -541,8 +541,8 @@ is here, that is the finding.
 - Version id: `rfFr0vJC`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -554,8 +554,8 @@ is here, that is the finding.
 - Version id: `cJQs4xht`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> performance
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -567,7 +567,7 @@ is here, that is the finding.
 - Version id: `qYqVf5jP`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -580,8 +580,8 @@ is here, that is the finding.
 - Version id: `RQ5qgaUC`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds icecream with a exploration element
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -594,10 +594,10 @@ is here, that is the finding.
 - CHECK: filename mentions 1.21 but pack targets 1.21.1
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> terrain/biome mod for the end
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
 ## personality!
 <!-- packreg:auto -->
@@ -607,8 +607,8 @@ is here, that is the finding.
 - Version id: `GQKsKYS3`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds some animations and other communication 
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -620,8 +620,8 @@ is here, that is the finding.
 - Version id: `t9fzt3Pl`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds a way to revive dead pets, and also zombify them
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -634,10 +634,10 @@ is here, that is the finding.
 - CHECK: filename mentions 1.21 but pack targets 1.21.1
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
 ## resourceful-lib
 <!-- packreg:auto -->
@@ -648,10 +648,10 @@ is here, that is the finding.
 - CHECK: filename mentions 1.21 but pack targets 1.21.1
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
 ## resourcify
 <!-- packreg:auto -->
@@ -661,8 +661,8 @@ is here, that is the finding.
 - Version id: `aXRe8UMO`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds a way to install resources and shaderpacks from inside the game
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -675,10 +675,10 @@ is here, that is the finding.
 - CHECK: filename mentions 'forge', pack targets 'neoforge'
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> (removable reloading screen) allows you to use the game while loaing
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
 
 ## sable
 <!-- packreg:auto -->
@@ -688,8 +688,8 @@ is here, that is the finding.
 - Version id: `U678xqle`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod and physics engine for create aeronotics
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> physics
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -701,9 +701,9 @@ is here, that is the finding.
 - Version id: `4yMBdLHx`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
+**Purpose:** <!-- why this mod is in the pack --> adds a tempature/thurst system for making deserts harder
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> player tempature
+**Config:** <!-- what you changed away from defaults --> increased warming minimum
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## sodium
@@ -715,10 +715,10 @@ is here, that is the finding.
 - CHECK: pre-release build
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> performance
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> pre-release
 
 ## sodium-extra
 <!-- packreg:auto -->
@@ -728,8 +728,8 @@ is here, that is the finding.
 - Version id: `iJsZtWpc`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds aditional setting for sodium
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -741,7 +741,7 @@ is here, that is the finding.
 - Version id: `kti7i9SG`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
+**Purpose:** <!-- why this mod is in the pack --> adds more sound FX, mainly for UI interactions and footsteps
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -754,8 +754,8 @@ is here, that is the finding.
 - Version id: `Dd2tmpsk`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds a physics based sound system, makes caves really cool
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> sound physics
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -767,8 +767,8 @@ is here, that is the finding.
 - Version id: `j8reYKe3`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -780,8 +780,8 @@ is here, that is the finding.
 - Version id: `4YRKCovn`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds a system to encourage food variety
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> hunger
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -793,8 +793,8 @@ is here, that is the finding.
 - Version id: `IY93YaEe`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> biome and terrain generation
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> Surface Biome and terrain generation
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -806,8 +806,8 @@ is here, that is the finding.
 - Version id: `T0vIbHHv`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> tempature library mod for scorchful
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -819,8 +819,8 @@ is here, that is the finding.
 - Version id: `3ZycbXog`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds content to the ocean and rivers, like mobs, structures and items.
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -832,8 +832,8 @@ is here, that is the finding.
 - Version id: `iyQS3jcO`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod for shaders (may have been needed for shine, could try removing)
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -845,8 +845,8 @@ is here, that is the finding.
 - Version id: `aJd8UVN0`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> adds sawmill that works like a stone cutter. 
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -858,22 +858,7 @@ is here, that is the finding.
 - Version id: `7TVdVtxF`
 <!-- /packreg:auto -->
 
-**Purpose:** <!-- why this mod is in the pack -->
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
-
-## modest-mining
-> **STALE** - no longer present in the pack.
-
-<!-- packreg:auto -->
-- File: `modestmining-1.21.1-1.4.1.jar`
-- Source: modrinth (`5QcDoykP`)
-- Side: both
-- Version id: `hrl7OOnd`
-<!-- /packreg:auto -->
-
-**Purpose:** <!-- why this mod is in the pack --> changes some things about mininng honestly I think im gonna remove it. 
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing 
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
