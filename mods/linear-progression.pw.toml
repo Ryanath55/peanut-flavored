@@ -1,0 +1,13 @@
+name = "Linear Progression"
+filename = "linear-progression-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v6cbEGV6/versions/mfqfvxFe/linear-progression-1.7.5.jar"
+hash-format = "sha512"
+hash = "db26be7411d3e377894c914d94ccc67228d9f2033102f53b7f58e1d3820a2770f4a3d50bb8cfb91e6b6c44f71d44ac433304cd239993b0cc44d2e34864c6d3bc"
+
+[update]
+[update.modrinth]
+mod-id = "v6cbEGV6"
+version = "mfqfvxFe"

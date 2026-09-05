@@ -320,6 +320,20 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## entity-model-features
+<!-- packreg:auto -->
+- File: `entity_model_features-3.3.5-1.21-neoforge.jar`
+- Source: modrinth (`4I1XuqiY`)
+- Side: client
+- Version id: `szv0UmJn`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
+
 ## entityculling
 <!-- packreg:auto -->
 - File: `entityculling-neoforge-1.10.5-mc1.21.1.jar`
@@ -332,6 +346,20 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing 
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## entitytexturefeatures
+<!-- packreg:auto -->
+- File: `entity_texture_features-7.2.1-1.21-neoforge.jar`
+- Source: modrinth (`BVzZfTc1`)
+- Side: client
+- Version id: `XEJeKpgJ`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
 
 ## environmental
 <!-- packreg:auto -->
@@ -479,6 +507,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## linear-progression
+<!-- packreg:auto -->
+- File: `linear-progression-1.7.5.jar`
+- Source: modrinth (`v6cbEGV6`)
+- Side: both
+- Version id: `mfqfvxFe`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> alters many aspects of vanilla progression. 
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> progression
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## lithium
 <!-- packreg:auto -->
 - File: `lithium-neoforge-0.15.4+mc1.21.1.jar`
@@ -558,6 +599,20 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## mouse-tweaks
+<!-- packreg:auto -->
+- File: `MouseTweaks-neoforge-mc1.21-2.26.1.jar`
+- Source: modrinth (`aC3cM3Vq`)
+- Side: client
+- Version id: `9I21YYxf`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds additional inventory and mouse functionality 
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
 
 ## mru
 <!-- packreg:auto -->
