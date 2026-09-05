@@ -150,6 +150,22 @@ def split_blocks(text: str) -> tuple[str, dict[str, str]]:
     return preamble, blocks
 
 
+def field_written(body: str, label: str) -> bool:
+    """True when a note field has real text, ignoring its scaffold comment.
+
+    Text may sit on the label's own line or on the lines below it, up to the
+    next **Field:** label or the end of the block.
+    """
+    match = re.search(
+        rf"^\*\*{re.escape(label)}:\*\*(.*?)(?=^\*\*\w+:\*\*|\Z)",
+        body,
+        re.MULTILINE | re.DOTALL,
+    )
+    if not match:
+        return False
+    return bool(re.sub(r"<!--.*?-->", "", match.group(1), flags=re.DOTALL).strip())
+
+
 def auto_section(mod: Mod) -> str:
     rows = [
         f"- File: `{mod.filename or 'unknown'}`",
@@ -256,16 +272,26 @@ def cmd_audit(args) -> int:
 
     _, blocks = split_blocks(reg_path.read_text(encoding="utf-8"))
     unnoted, stale, flagged = [], [], []
+    reviewed = 0
 
     for slug, body in blocks.items():
         if STALE_MARK in body:
             stale.append(slug)
-        if re.search(r"^\*\*Purpose:\*\*\s*(<!--.*?-->)?\s*$", body, re.MULTILINE):
+        if not field_written(body, "Purpose"):
             unnoted.append(slug)
+        # A sync flag is a hint, not a defect. Writing Conflicts is how you say
+        # you looked at it: the flag stays visible but stops blocking.
+        acknowledged = field_written(body, "Conflicts")
         for line in re.findall(r"^- CHECK: (.+)$", body, re.MULTILINE):
-            flagged.append((slug, line))
+            if acknowledged:
+                reviewed += 1
+            else:
+                flagged.append((slug, line))
 
     print(f"{len(blocks)} mods in register\n")
+    if reviewed:
+        print(f"Acknowledged in Conflicts ({reviewed}) - not blocking.")
+        print()
     if flagged:
         print(f"Flagged by sync ({len(flagged)}):")
         for slug, note in flagged:
