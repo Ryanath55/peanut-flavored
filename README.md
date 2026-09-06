@@ -1,4 +1,4 @@
-# Barren Skies Test Pack
+# Peanut Flavored
 
 A NeoForge 1.21.1 modpack, managed with [packwiz](https://packwiz.infra.link/)
 and kept in git. This repository lives **inside** the live Modrinth profile
