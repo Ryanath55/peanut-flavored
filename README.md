@@ -2,7 +2,7 @@
 
 A NeoForge 1.21.1 modpack, managed with [packwiz](https://packwiz.infra.link/)
 and kept in git. This repository lives **inside** the live Modrinth profile
-(`%APPDATA%\ModrinthApp\profiles\New instance (1)`), so the launcher and git
+(`%APPDATA%\ModrinthApp\profiles\<your instance folder>`), so the launcher and git
 operate on the same files — change a config in-game and it shows up in
 `git status`.
 
