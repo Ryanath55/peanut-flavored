@@ -547,6 +547,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> pre-release
 
+## lukis-woodland-mansions
+<!-- packreg:auto -->
+- File: `lukis-woodland-mansions-v1.0.jar`
+- Source: modrinth (`RZN5D3zs`)
+- Side: both
+- Version id: `1fEmTmPi`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> overhauls the woodland mansion structure
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## map-atlases-forge
 <!-- packreg:auto -->
 - File: `map_atlases-1.21-6.7.3-neoforge.jar`
@@ -573,6 +586,33 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## moogs-structure-lib
+<!-- packreg:auto -->
+- File: `MoogsStructureLib-neoforge-1.21.1-3.1.2.jar`
+- Source: modrinth (`1oUDhxuy`)
+- Side: both
+- Version id: `3AOwEzBy`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## moogs-voyager-structures
+<!-- packreg:auto -->
+- File: `MoogsVoyagerStructures-universal-1.21-5.1.1.jar`
+- Source: modrinth (`OQAgZMH1`)
+- Side: both
+- Version id: `F4KldqbX`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds some vanilla+ structures
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21
 
 ## moonlight
 <!-- packreg:auto -->
@@ -823,6 +863,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## sparsestructures
+<!-- packreg:auto -->
+- File: `sparsestructures-neoforge-1.21.1-3.0.jar`
+- Source: modrinth (`qwvI41y9`)
+- Side: both
+- Version id: `MoJZpi20`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> spreads out structures, or the oppisite
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->

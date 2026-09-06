@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "never": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [["never"]]
+}

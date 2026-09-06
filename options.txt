@@ -58,7 +58,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -135,6 +135,7 @@ key_key.map_atlases.open_minimap:key.keyboard.m
 key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract
 key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add
 key_key.map_atlases.place_pin:key.keyboard.b
+key_key.solonion.open_food_book:key.keyboard.unknown
 key_key.personality.crawl:key.keyboard.c
 key_key.personality.sit:key.keyboard.z
 key_key.ponder.ponder:key.keyboard.w

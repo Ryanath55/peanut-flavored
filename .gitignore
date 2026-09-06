@@ -16,6 +16,12 @@
 !/defaultconfigs/
 !/datapacks/
 !/mods/
+# Built from tools/patchpack. A datapack inside a mod jar cannot override another mod's
+# data: NeoForge folds every mod jar into one bundled pack that outranks them all.
+# Moonlight loads this folder after that pack, which is the only way the patches win.
+!/moonlight-global-datapacks/
+/moonlight-global-datapacks/*
+!/moonlight-global-datapacks/packpatches.zip
 !/options.txt
 
 # packwiz pack definition

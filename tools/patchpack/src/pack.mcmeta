@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Pack Patches — local data fixes for this modpack. Loaded for every world via Moonlight's global datapack folder, which is what puts it after mod_data so its overrides win. Patch 1: Linear Progression item durability restored (run /function packpatches:restore_durability once for gear you already own). Needs Linear Progression present — its recipe overrides carry LP's ingredients."
+  }
+}

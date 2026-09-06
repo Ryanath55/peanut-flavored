@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": {
+    "item": "minecraft:chainmail_chestplate"
+  },
+  "addition": {
+    "item": "minecraft:iron_block"
+  },
+  "template": {
+    "item": "minecraft:leather"
+  },
+  "result": {
+    "id": "minecraft:iron_chestplate"
+  }
+}

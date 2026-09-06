@@ -18,7 +18,10 @@
 /.mixin.out/
 /.sable/
 /dynamic-resource-pack-cache/
-/moonlight-global-datapacks/
+# The patch pack is the exception: built from tools/patchpack, and the only place its
+# overrides actually outrank the mods they patch. Everything else here is machine-local.
+/moonlight-global-datapacks/*
+!/moonlight-global-datapacks/packpatches.zip
 /data/
 /schematics/
 

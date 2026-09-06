@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "e4749997d47a60140f8aba7da180f8d4e2b6b07315e63e7337a904d5ee42810e"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
 file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
@@ -105,6 +109,14 @@ file = "config/endersdelight-common.toml"
 hash = "d68030c4d35298f600c8ac5b0db3421c67e8620db1a2232eed07fe9d9d853630"
 
 [[files]]
+file = "config/entity_model_features.json"
+hash = "c633e3370aa256a71ab45aec68683a2ec4b29b6c5c2dfd430f9788a854ccf920"
+
+[[files]]
+file = "config/entity_texture_features.json"
+hash = "bd66edf9d1a72cd717bbe9b17b41ffd16963b089493e5ddae3d3ad69153105ba"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
 
@@ -117,8 +129,12 @@ file = "config/environmental-common.toml"
 hash = "580a0991eefe4940150324d7160b287c9bc19afceca3b5ab6b5f3179996ce83c"
 
 [[files]]
+file = "config/etf_warnings.json"
+hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3c55648c6f5e51e91f0895f23094478f09c88c29c58d0f2a05c0c1e4d16a55aa"
+hash = "6be758b3beb4e4f89d61d7c6b5db4a2b89b90e0b2caef6824953a25f6bdbbc7c"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -166,7 +182,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "13ee78fb77b608af6025649c56910ce728c7a7955f4607fd1fcb6c8e4771683e"
+hash = "d36e2b9d098bd96499b1ee0435e72d11bdd60e00fb10cb359cec71c648682e32"
 
 [[files]]
 file = "config/lithium.properties"
@@ -191,6 +207,10 @@ hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "cda1de84880f439d9c8a025861a483d51972e76b8a5a6a253dd0196aec821ac5"
+
+[[files]]
+file = "config/moogs_structures.json"
+hash = "dd18dcdbb4de97ab8f04e8058037ef31f69fd59b007f97d66dfb4cbb2fffb02c"
 
 [[files]]
 file = "config/moonlight-client.toml"
@@ -293,6 +313,14 @@ file = "config/sodium-options.json"
 hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
 
 [[files]]
+file = "config/solonion-client.json"
+hash = "3b25083488df1b392b417e202ade95037aee601ff4a564067c2b1d67fff60aa0"
+
+[[files]]
+file = "config/solonion.json"
+hash = "105d00b0b515d8fff493d00768d95cc41d35d4ac24e08b075eebe2fae16b8f9f"
+
+[[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
 hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
 
@@ -327,6 +355,10 @@ hash = "ad2d93625c17340af17d4f8160853cb2a8db338ebc5e8989c574798039379f56"
 [[files]]
 file = "config/sounds/world.json"
 hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
+
+[[files]]
+file = "config/sparsestructures.json5"
+hash = "bc624bb9df7a59a6a7a57a9d5a774dbdd94cad5726120e3bfd6465b9efc0ba11"
 
 [[files]]
 file = "config/terralith.json"
@@ -562,6 +594,11 @@ hash = "0e1046e1bb16b42706ba58700f294787dc8fe643518bc5fb26eeaea8e96fd320"
 metafile = true
 
 [[files]]
+file = "mods/lukis-woodland-mansions.pw.toml"
+hash = "0024e497d2569c6e0b20ea51593cefb785c35edf2f2a40a1aae7f6ed96b655b3"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "914b1149de9f334985644ceae82107dc2eeb55d85bf6dda1f64d357feb33c83a"
 metafile = true
@@ -569,6 +606,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "6727bf5c1c358a3854d99bfc72993ba247e6280868c8ebece0455b2bb7b9d215"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "1601689ecfe1435bc4850ec77a7fd88212980ba2d3c2da441ca25a3a8044a011"
 metafile = true
 
 [[files]]
@@ -667,6 +714,11 @@ hash = "fd2b9d3767476d9200521917dd71b8aeeba5e0e23f8160457bd864e96190d300"
 metafile = true
 
 [[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "993b4e4970e1a5ef2fe7c6712212f57a84dcf8b31d4b6863540b6395c4f9ce09"
+metafile = true
+
+[[files]]
 file = "mods/spice-of-life-onion.pw.toml"
 hash = "6d22056366c7d5e3a8a79a8549a4b7209702d021590d8b3003de525f1bf29a63"
 metafile = true
@@ -700,3 +752,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "moonlight-global-datapacks/packpatches.zip"
+hash = "99c5b4ce691f92fc8ba151590ef750dc9fa684f9e3d07e2212d512b35fa1e2f6"
