@@ -85,6 +85,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
+## architectury-api
+<!-- packreg:auto -->
+- File: `architectury-13.0.11-neoforge.jar`
+- Source: modrinth (`lhGA9TYQ`)
+- Side: both
+- Version id: `1IiqEQGl`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack -->library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## atmospheric
 <!-- packreg:auto -->
 - File: `atmospheric-1.21.1-7.0.1.jar`
@@ -122,6 +135,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> overworld terrain shape and biome placement.\
 **Config:** <!-- what you changed away from defaults --> island ore generation set to 50. waterfall only over water set to true\
 **Conflicts:** <!-- known overlaps and how they were resolved --> updated to be compatable with terralith and team abnormal's bluebrint mod - resolved
+
+## bellsandwhistles
+<!-- packreg:auto -->
+- File: `bellsandwhistles-0.4.7-1.21.1.jar`
+- Source: modrinth (`gJ5afkVv`)
+- Side: both
+- Version id: `w0mifib8`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## berry-good
 <!-- packreg:auto -->
@@ -164,10 +190,10 @@ is here, that is the finding.
 
 ## blueprint
 <!-- packreg:auto -->
-- File: `blueprint-1.21.1-8.1.1.jar`
+- File: `blueprint-1.21.1-8.2.0.jar`
 - Source: modrinth (`VsM5EDoI`)
 - Side: both
-- Version id: `LMGtMapI`
+- Version id: `FHOjk8Ez`
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> library mod of some of team Abnorma's mods, focuses on a custom biome spawn rules
@@ -240,6 +266,45 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## cool-rain-reforged
+<!-- packreg:auto -->
+- File: `coolrain-1.21.1-NeoForge-1.0.2.jar`
+- Source: modrinth (`IgftU6Mn`)
+- Side: both
+- Version id: `SwSSfJQQ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> rain sfx
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## copycats
+<!-- packreg:auto -->
+- File: `copycats-3.0.9+mc.1.21.1-neoforge.jar`
+- Source: modrinth (`UT2M39wf`)
+- Side: both
+- Version id: `bPYeUWZx`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## copycats+-aeronautics-weight
+<!-- packreg:auto -->
+- File: `aerocopycats-1.1.1.jar`
+- Source: modrinth (`wjpmYU1u`)
+- Side: both
+- Version id: `wsXjRa7l`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack -->create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## create
 <!-- packreg:auto -->
 - File: `create-1.21.1-6.0.10.jar`
@@ -255,14 +320,183 @@ is here, that is the finding.
 
 ## create-aeronautics
 <!-- packreg:auto -->
-- File: `create-aeronautics-bundled-1.21.1-1.3.1.jar`
+- File: `create-aeronautics-bundled-1.21.1-1.3.2.jar`
 - Source: modrinth (`oWaK0Q19`)
 - Side: both
-- Version id: `Vzp221Un`
+- Version id: `44pLdPGg`
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> flying stuff
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> flight
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-aeronautics-encased-fluid-pipes
+<!-- packreg:auto -->
+- File: `aeroencasedpipe-1.0.7.jar`
+- Source: modrinth (`DdAlVT8M`)
+- Side: both
+- Version id: `pKFEfjEB`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-aeronautics-portable-engine-liquid-fuel
+<!-- packreg:auto -->
+- File: `portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar`
+- Source: modrinth (`HLbPoouI`)
+- Side: both
+- Version id: `L6KPVFxI`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-aeronautics-transmission-linkage
+<!-- packreg:auto -->
+- File: `create_aeronautics_transmission_linkage-0.2.8.jar`
+- Source: modrinth (`Y1dq5ioE`)
+- Side: both
+- Version id: `FCZZ3ED4`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-aeroworks
+<!-- packreg:auto -->
+- File: `aeroworks-1.5.0.jar`
+- Source: modrinth (`P26k79kP`)
+- Side: both
+- Version id: `6kk7ruR3`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-big-cannons
+<!-- packreg:auto -->
+- File: `createbigcannons-5.11.7+mc.1.21.1.jar`
+- Source: modrinth (`GWp4jCJj`)
+- Side: both
+- Version id: `bOiDu0LS`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-central-kitchen
+<!-- packreg:auto -->
+- File: `create-central-kitchen-2.6.0.jar`
+- Source: modrinth (`btq68HMO`)
+- Side: both
+- Version id: `1mQSm4Yb`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-connected
+<!-- packreg:auto -->
+- File: `create_connected-1.3.3-mc1.21.1.jar`
+- Source: modrinth (`Vg5TIO6d`)
+- Side: both
+- Version id: `Xe7EqzfQ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-curios-jetpack
+<!-- packreg:auto -->
+- File: `create_jetpack_curios-1.2.0-neoforge-1.21.1.jar`
+- Source: modrinth (`BBhCMftF`)
+- Side: both
+- Version id: `JEmLrfe6`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-deco
+<!-- packreg:auto -->
+- File: `createdeco-2.1.3.jar`
+- Source: modrinth (`sMvUb4Rb`)
+- Side: both
+- Version id: `qrcMVoBD`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-design-n-decor
+<!-- packreg:auto -->
+- File: `Design-n-Decor-1.21.1-2.2b.jar`
+- Source: modrinth (`x49wilh8`)
+- Side: both
+- Version id: `uQsIRky8`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-design-n-decor-aeronautics-compat
+<!-- packreg:auto -->
+- File: `dnd_aero_compat-1.0.0.jar`
+- Source: modrinth (`KhnOEVjA`)
+- Side: both
+- Version id: `Jhg0FhSv`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-diesel-generators
+<!-- packreg:auto -->
+- File: `createdieselgenerators-1.21.1-1.3.15.jar`
+- Source: modrinth (`ZM3tt6p1`)
+- Side: both
+- Version id: `UoPH8lO1`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-dragons-plus
+<!-- packreg:auto -->
+- File: `CreateDragonsPlus-1.11.8b.jar`
+- Source: modrinth (`dzb1a5WV`)
+- Side: both
+- Version id: `G8QQJPtF`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -610,6 +844,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## interiors
+<!-- packreg:auto -->
+- File: `interiors-1.21.1-neoforge-0.6.1.jar`
+- Source: modrinth (`r4Knci2k`)
+- Side: both
+- Version id: `gBrfZy6S`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## iris
 <!-- packreg:auto -->
 - File: `iris-neoforge-1.8.14-beta.1+mc1.21.1.jar`
@@ -623,6 +870,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> shaders
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> pre-release
+
+## jei
+<!-- packreg:auto -->
+- File: `jei-1.21.1-neoforge-19.53.0.426.jar`
+- Source: modrinth (`u6dRKJwZ`)
+- Side: both
+- Version id: `WXSjjcqV`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> recipie system, subservient to EMI
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## kotlin-for-forge
 <!-- packreg:auto -->
@@ -652,10 +912,10 @@ is here, that is the finding.
 
 ## lithostitched
 <!-- packreg:auto -->
-- File: `lithostitched-1.8.0+beta4-neoforge-21.1.jar`
+- File: `lithostitched-1.8.0+beta6-neoforge-21.1.jar`
 - Source: modrinth (`XaDC71GB`)
 - Side: both
-- Version id: `81DDKTGJ`
+- Version id: `xDAotknu`
 - CHECK: pre-release build
 <!-- /packreg:auto -->
 
@@ -693,10 +953,10 @@ is here, that is the finding.
 
 ## modernfix
 <!-- packreg:auto -->
-- File: `modernfix-neoforge-5.27.20+mc1.21.1.jar`
+- File: `modernfix-neoforge-5.27.24+mc1.21.1.jar`
 - Source: modrinth (`nmDcB62a`)
 - Side: both
-- Version id: `VsJnrw8k`
+- Version id: `5HLHxQ2F`
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> performance
@@ -733,10 +993,10 @@ is here, that is the finding.
 
 ## moonlight
 <!-- packreg:auto -->
-- File: `moonlight-1.21.1-3.6.0-neoforge.jar`
+- File: `moonlight-1.21.1-3.6.3-neoforge.jar`
 - Source: modrinth (`twkfQtEc`)
 - Side: both
-- Version id: `rfFr0vJC`
+- Version id: `uPJlV3eS`
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> library mod
@@ -746,10 +1006,10 @@ is here, that is the finding.
 
 ## moreculling
 <!-- packreg:auto -->
-- File: `moreculling-neoforge-1.21.1-1.0.9.jar`
+- File: `moreculling-neoforge-1.21.1-1.0.10.jar`
 - Source: modrinth (`51shyZVL`)
 - Side: both
-- Version id: `cJQs4xht`
+- Version id: `5M4T2FfG`
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> performance
@@ -773,10 +1033,10 @@ is here, that is the finding.
 
 ## mru
 <!-- packreg:auto -->
-- File: `mru-1.0.19+LTS+1.21.1+neoforge.jar`
+- File: `mru-1.0.33+1.21.1-neoforge.jar`
 - Source: modrinth (`SNVQ2c0g`)
 - Side: both
-- Version id: `qYqVf5jP`
+- Version id: `hKkYQw1y`
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> library mod
@@ -876,6 +1136,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## reeses-sodium-options
+<!-- packreg:auto -->
+- File: `reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar`
+- Source: modrinth (`Bh37bMuy`)
+- Side: client
+- Version id: `KYgu9tXl`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> sodium option and library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## resourceful-config
 <!-- packreg:auto -->
 - File: `resourcefulconfig-neoforge-1.21-3.0.11.jar`
@@ -914,6 +1187,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> adds a way to install resources and shaderpacks from inside the game
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## rpl
+<!-- packreg:auto -->
+- File: `ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar`
+- Source: modrinth (`B3pb093D`)
+- Side: both
+- Version id: `hZ6B2Z0x`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod for cannons i think
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -971,6 +1257,71 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## sable-cool-rain
+<!-- packreg:auto -->
+- File: `sable-cool-rain-1.0.0+1.21.1+neoforge.jar`
+- Source: modrinth (`nUwwB5kx`)
+- Side: client
+- Version id: `T9UNQ155`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> cool rain compat
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## sable-explosions-fix
+<!-- packreg:auto -->
+- File: `sableexplosionfix-1.0.0.jar`
+- Source: modrinth (`yyPO9w1V`)
+- Side: both
+- Version id: `vN3gvLQk`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> sable fix
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## sable-ragdoll-corpse
+<!-- packreg:auto -->
+- File: `ragdoll_corpse-1.21.1-0.3.0.jar`
+- Source: modrinth (`uetGbPKW`)
+- Side: both
+- Version id: `DwA6a1pT`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds ragdolls after you die that holds your inventory
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> death
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## sable-ragdolls
+<!-- packreg:auto -->
+- File: `sable_player_ragdoll-1.21.1-0.7.5.jar`
+- Source: modrinth (`I3mWDgfy`)
+- Side: both
+- Version id: `CyKh8XSr`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> sable addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## sable_beyond
+<!-- packreg:auto -->
+- File: `sablebeyond-neoforge-1.21.1-v0.5.0.jar`
+- Source: modrinth (`PrW3B4fH`)
+- Side: both
+- Version id: `BWQxgVOj`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> sable addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## scorchful
 <!-- packreg:auto -->
 - File: `scorchful-neoforge-0.15.2+1.21.1-neoforge.jar`
@@ -999,11 +1350,10 @@ is here, that is the finding.
 
 ## sodium
 <!-- packreg:auto -->
-- File: `sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar`
+- File: `sodium-neoforge-0.8.13+mc1.21.1.jar`
 - Source: modrinth (`AANobbMI`)
 - Side: client
-- Version id: `jfHZ5pyN`
-- CHECK: pre-release build
+- Version id: `uMOpc5uV`
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> performance
@@ -1086,6 +1436,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> adds a system to encourage food variety
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> hunger
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## ssrd
+<!-- packreg:auto -->
+- File: `SSRD-1.8.6-1.21.1.jar`
+- Source: modrinth (`fJ183v3D`)
+- Side: both
+- Version id: `hZfIK5Wl`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> fixes phys object render distance
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
