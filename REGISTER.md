@@ -149,6 +149,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults --> reduced text size to 0.75. more changes to come. 
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## biolith
+<!-- packreg:auto -->
+- File: `biolith-neoforge-3.0.14.jar`
+- Source: modrinth (`iGEl6Crx`)
+- Side: both
+- Version id: `EAjbdreT`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> biome gen library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> may conflict with other biome gen
+
 ## blueprint
 <!-- packreg:auto -->
 - File: `blueprint-1.21.1-8.1.1.jar`
@@ -161,6 +174,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> was conflicting with Barren skies biome placement - resolved
+
+## brewin-and-chewin
+<!-- packreg:auto -->
+- File: `BrewinAndChewin-neoforge-4.5.0+1.21.1.jar`
+- Source: modrinth (`hIu9KJTT`)
+- Side: both
+- Version id: `MbcR48Ou`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> farmer's delight addon that adds fermentation
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## buzzier-bees
 <!-- packreg:auto -->
@@ -253,6 +279,32 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## cultural-delights
+<!-- packreg:auto -->
+- File: `culturaldelights-0.17.8.jar`
+- Source: modrinth (`YttyNOFA`)
+- Side: both
+- Version id: `yNIrDVfJ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> farmer's delight addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## curios
+<!-- packreg:auto -->
+- File: `curios-neoforge-9.5.1+1.21.1.jar`
+- Source: modrinth (`vvuO3ImH`)
+- Side: both
+- Version id: `yohfFbgD`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> equipment slot mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> extra equipment slots
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## distanthorizons
 <!-- packreg:auto -->
 - File: `DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar`
@@ -266,6 +318,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> LODs
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
+
+## dungeons_delight
+<!-- packreg:auto -->
+- File: `neoforge-dungeonsdelight-1.21.1-1.5.0.jar`
+- Source: modrinth (`qPfNr476`)
+- Side: both
+- Version id: `aFluEQDH`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> farmer's delight addon for dungeons
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## dynamic-fps
 <!-- packreg:auto -->
@@ -316,6 +381,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack -->  Farmer's Delight addon for the end
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## ends-delight
+<!-- packreg:auto -->
+- File: `ends_delight-2.6.1+neoforge.1.21.1.jar`
+- Source: modrinth (`yHN0njMr`)
+- Side: both
+- Version id: `YTApg6Hl`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds farmers delight content to the end
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -436,6 +514,32 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## hybrid-aquatic
+<!-- packreg:auto -->
+- File: `[1.21.1-Neoforge] Hybrid Aquatic 1.6.9.jar`
+- Source: modrinth (`HH4FjUqN`)
+- Side: both
+- Version id: `nSHix8lr`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds fishing and ocean content
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## hybrid-delights
+<!-- packreg:auto -->
+- File: `[1.21.1-Neoforge] Hybrid Delights 1.2.1 Hotfix.jar`
+- Source: modrinth (`WR49BBCu`)
+- Side: both
+- Version id: `Ao4kZAvU`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat for hybrid aquatic and farmers delight
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -667,6 +771,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## my-nethers-delight
+<!-- packreg:auto -->
+- File: `MyNethersDelight-1.21.1-1.10.4.jar`
+- Source: modrinth (`O53VhQoZ`)
+- Side: both
+- Version id: `OdH19ieD`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> farmer's delight addon for the nether
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## neapolitan
 <!-- packreg:auto -->
 - File: `neapolitan-1.21.1-6.0.1.jar`
@@ -693,6 +810,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
+
+## oceans-delight
+<!-- packreg:auto -->
+- File: `oceansdelight-neoforge-1.0.4-1.21.1.jar`
+- Source: modrinth (`DGiq4ZSW`)
+- Side: both
+- Version id: `ja5Qg1xw`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds farmers delight content for vanilla ocean content
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## personality!
 <!-- packreg:auto -->
@@ -775,6 +905,20 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
 
+## rustic-delight
+<!-- packreg:auto -->
+- File: `rusticdelight-neoforge-1.21-1.7.1.jar`
+- Source: modrinth (`foa4fGIH`)
+- Side: both
+- Version id: `sAaG4pSA`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> farmer's delight addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21
+
 ## sable
 <!-- packreg:auto -->
 - File: `sable-neoforge-1.21.1-2.0.5.jar`
@@ -799,6 +943,19 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> adds a tempature/thurst system for making deserts harder
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> player tempature
 **Config:** <!-- what you changed away from defaults --> increased warming minimum
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## slice-and-dice
+<!-- packreg:auto -->
+- File: `sliceanddice-4.3.3-neoforge.jar`
+- Source: modrinth (`GmjmRQ0A`)
+- Side: both
+- Version id: `N67LJgrN`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat between farmers delight and create
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## sodium
@@ -915,6 +1072,45 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> tempature library mod for scorchful
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## tide
+<!-- packreg:auto -->
+- File: `tide-neoforge-1.21.1-2.1.1.jar`
+- Source: modrinth (`die1AF7i`)
+- Side: both
+- Version id: `1ki6UyqV`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> fishing rework mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> fishing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## tide-extra-compatibility
+<!-- packreg:auto -->
+- File: `tide-extra-compatibility-2.2.0.jar`
+- Source: modrinth (`goMfyYSL`)
+- Side: both
+- Version id: `Cy4Y9BPe`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat mod for tide
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## tidesdelight
+<!-- packreg:auto -->
+- File: `tidesdelight-1.21.1-1.2.0-neoforge.jar`
+- Source: curseforge (`1188673`)
+- Side: both
+- Version id: `8049889`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat for tide and farmers delight
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->

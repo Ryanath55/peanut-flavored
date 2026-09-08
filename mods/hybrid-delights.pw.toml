@@ -1,0 +1,13 @@
+name = "Hybrid Delights"
+filename = "[1.21.1-Neoforge] Hybrid Delights 1.2.1 Hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WR49BBCu/versions/Ao4kZAvU/%5B1.21.1-Neoforge%5D%20Hybrid%20Delights%201.2.1%20Hotfix.jar"
+hash-format = "sha512"
+hash = "6d36a2875ce7078250bb7dce5559e0248e84981e927cf1a2dd2d94f23ff74b094b1b6ecc237d0a3e31386e29e2bb261f736be9ee5f9b2a9e451d0db01f8624ae"
+
+[update]
+[update.modrinth]
+mod-id = "WR49BBCu"
+version = "Ao4kZAvU"

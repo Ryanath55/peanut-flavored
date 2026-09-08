@@ -29,6 +29,10 @@ file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
 [[files]]
+file = "config/aquaculture-common.toml"
+hash = "e8d9fdd5fe9b62b1dc3019fdb9489406654f0336d05bc23f217a1152ad0efe24"
+
+[[files]]
 file = "config/atmospheric-common.toml"
 hash = "4476d7d27acb2906a3566ff25f0c7c0df0bcf734aea41c9a84f584ac1ea85592"
 
@@ -89,6 +93,22 @@ file = "config/creativecore.json"
 hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
 
 [[files]]
+file = "config/culturaldelights-common.toml"
+hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
+
+[[files]]
+file = "config/curios-client.toml"
+hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
+
+[[files]]
+file = "config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
 file = "config/dynamic_fps.json"
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
@@ -134,7 +154,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "6be758b3beb4e4f89d61d7c6b5db4a2b89b90e0b2caef6824953a25f6bdbbc7c"
+hash = "bcc924b8e449b883056693e62e240604705dfe349134cfc8387b29a4b815af6a"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -165,6 +185,10 @@ file = "config/gallery-common.toml"
 hash = "edb48061400dd675918d7e5d1b5f0846f056ceb09f5f4eada9fa36500c9bff36"
 
 [[files]]
+file = "config/hybrid_aquatic.json"
+hash = "dc1244ec2840ba8c5761cd4a3fa16317c85528fb03516e3b9f89ee912c639b47"
+
+[[files]]
 file = "config/immediatelyfast.json"
 hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
 
@@ -182,7 +206,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "d36e2b9d098bd96499b1ee0435e72d11bdd60e00fb10cb359cec71c648682e32"
+hash = "98277cea500bf6d0df2f9843474cf35944bb756ad869d85139c6d0f8314f0002"
 
 [[files]]
 file = "config/lithium.properties"
@@ -330,7 +354,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "c7cffccd9e5479029555bddad28c3200c71e20e9f016b3105d1b5a303d1887fc"
+hash = "e346c23e661edbe48e05708e3b5b69aafe7412c4734fc10877308ee9a912d3e9"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -358,11 +382,23 @@ hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "bc624bb9df7a59a6a7a57a9d5a774dbdd94cad5726120e3bfd6465b9efc0ba11"
+hash = "bcdbf95d0b920eee5e12eb7c421f9d6476e4bbfd75bf7542185c6b30dd63d7e6"
 
 [[files]]
 file = "config/terralith.json"
 hash = "eadc7fad5ce55fbcec25df521820d36c222d5b12f17006ed9fea34ebeb6fd01d"
+
+[[files]]
+file = "config/tide/tide_client.json"
+hash = "6a6d3f77f88598206f8edeb23e48afafbcee758f69eb4f430fbeded6e76d0cfb"
+
+[[files]]
+file = "config/tide/tide_server.json"
+hash = "83e0d650511b8a3780c26bf5bc158d0e7378fbb79c4acb247cfefa07ff5dbd89"
+
+[[files]]
+file = "config/tidesdelight-common.toml"
+hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
 [[files]]
 file = "config/transition.json"
@@ -387,6 +423,10 @@ hash = "7c2f4b02094bf2978c37239b6a56f84423d3c26948b20e5ce60dade4c2359e6e"
 [[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "defaultconfigs/biolith/general.json"
+hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
 file = "mods/abnormals-delight.pw.toml"
@@ -444,8 +484,18 @@ hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "cc79b689faf345a5aa19ead3423726b6f87c267d686fb5807738e0cd20756679"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
@@ -484,8 +534,23 @@ hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "7dc4daef7f7fbd4f89aa502f54ec24049a60c016e47d2b37776f3905623e3578"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "633da82d88437f80abcc0aed54eda0a6a7d89e1f3289d3fdc85a529d1ec0b0ee"
 metafile = true
 
 [[files]]
@@ -506,6 +571,11 @@ metafile = true
 [[files]]
 file = "mods/enders-delight.pw.toml"
 hash = "bfacd9df75ed4c19ba58ed123f6a9dab58ab6e4b66d412c019db1d7e3bf73e78"
+metafile = true
+
+[[files]]
+file = "mods/ends-delight.pw.toml"
+hash = "03a2f273597c1d2bef87eaa60af9287d7d54ec68cc0a0d4b5b79e1497b16ad3e"
 metafile = true
 
 [[files]]
@@ -551,6 +621,16 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "eab9bd3e3ca7f69dd902098f3a5c025bc15bc6449faa53a1d254ad6cfd18fdb6"
+metafile = true
+
+[[files]]
+file = "mods/hybrid-delights.pw.toml"
+hash = "03ab5a200a1eb633a2ca61aae0c0bd4b397f0416cdebcebecf60a66281c7dee0"
 metafile = true
 
 [[files]]
@@ -639,6 +719,11 @@ hash = "68956e9f81c3e1cb9d65d921ace1a8a2956a2c64243728bd900885413cb9bbbd"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "9d17108df8460b193938992825266e5f22205ee066249a3f706be640069f193a"
+metafile = true
+
+[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "e68a5fa89a2b2c17a3f807875c8f32b5f69d7c083a8c88e8f29f3832c9bb4385"
 metafile = true
@@ -646,6 +731,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "dcfbfa39abeaba554c2c5323f9b9a3ec58dfc386aca2d237f73948abdbdc7125"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
@@ -679,6 +769,11 @@ hash = "624e7455a378da6bce5b9fdd97e27c4125472cdac0173c73a8406f2067ef07a9"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "ac9db8b319aa7a53d06c5209998dcf8a2d9a6bd17fbd14c3f6dd859727d434a7"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
@@ -686,6 +781,11 @@ metafile = true
 [[files]]
 file = "mods/scorchful.pw.toml"
 hash = "afaea3ce048a70fe3df0786fcb8339137052773ee30c9c1f5dcf8a5c60b6e320"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "83a7b840686a417dfe1161ee5cd918989dd2d901c9013bf85e93a30f597260f7"
 metafile = true
 
 [[files]]
@@ -731,6 +831,21 @@ metafile = true
 [[files]]
 file = "mods/thermoo.pw.toml"
 hash = "8c1348b1d5c9bfa48f6a60eb842039d707af76e34c37f6e44ec18aa46cb9c0a2"
+metafile = true
+
+[[files]]
+file = "mods/tide-extra-compatibility.pw.toml"
+hash = "b0e3edb9309ceb7976d9cf5fdb5e416f70c654f27b0d648d97cd0ad79ef69342"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "7b4d98d9a07495eb4c8e7181a6fbff38ffed9cec7995104937cd17b764dcd9e0"
+metafile = true
+
+[[files]]
+file = "mods/tidesdelight.pw.toml"
+hash = "568289372ffe5ed2809a968fc029c0f9ce0eb5672a936b03533220755abfdf26"
 metafile = true
 
 [[files]]
