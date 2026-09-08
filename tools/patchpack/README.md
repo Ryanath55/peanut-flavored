@@ -57,19 +57,20 @@ being read. If it loads silently, it is not, and no argument about load order wi
 
 ## Current patches
 
-**1. Linear Progression: item durability restored.** LP takes durability away in two places. A hidden
-advancement, `linear_progression:detect/breakable_item_in_inventory`, fires on every inventory change and
-runs an item modifier over all your slots that strips `minecraft:damage` and adds `minecraft:unbreakable`.
-Separately, 22 recipes craft their result with `minecraft:unbreakable` already in its components.
+None active. The pack is kept in place as the home for the next one, and because an empty datapack costs
+nothing while re-establishing where it has to live would cost the afternoon documented above.
 
-The advancement is overridden with a `minecraft:impossible` trigger, and the 22 recipes are reshipped
-unchanged apart from the removed component — LP's own ingredients and smithing chains are kept. Gear made
-before the patch keeps the component; `/function packpatches:restore_durability` takes it off everything
-you are carrying, including your ender chest.
+## Retired patches
 
-This patch assumes Linear Progression is present: its recipe overrides use LP's ingredients, so with LP
-gone they would shadow the vanilla recipes with ones referencing a tag that no longer exists. Remove this
-pack if you ever remove LP.
+**1. Linear Progression: item durability restored.** Disabled 2026-09-08, when Linear Progression was
+removed from the pack. Kept intact under `disabled/1-linear-progression-durability/`, with its own README
+explaining what it did and how to bring it back.
 
-Not touched: LP's eyes of ender that survive being thrown. That reads as an intended feature rather than
-part of the durability removal.
+Removing it was not optional tidying. With LP gone the patch was still in force: 18 vanilla recipe ids
+still carried LP's ingredients, and 4 stone tool recipes referenced an LP item tag that no longer exists,
+which does not fail the recipe — it resolves to nothing, so they simply could never be crafted. Measured
+at 1300 recipes with the patch shipping against 1296 without it.
+
+Any patch that overrides a `minecraft:` id with another mod's content has this property: it must leave when
+that mod leaves, and nothing in the game will say so. Check the disabled folder whenever a mod comes out of
+the pack.

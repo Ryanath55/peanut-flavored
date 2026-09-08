@@ -359,6 +359,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## end-remastered-additions
+<!-- packreg:auto -->
+- File: `endrem_additions-neoforge-1.1.2.jar`
+- Source: modrinth (`z3QkIKOR`)
+- Side: both
+- Version id: `kpk4g0ld`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> addon of end remastered
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## enderman-overhaul
 <!-- packreg:auto -->
 - File: `endermanoverhaul-neoforge-1.21.1-2.0.3.jar`
@@ -382,6 +395,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack -->  Farmer's Delight addon for the end
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## endrem
+<!-- packreg:auto -->
+- File: `endrem-neoforge-1.21.1-6.3.0.jar`
+- Source: modrinth (`ZJTGwAND`)
+- Side: both
+- Version id: `Xzg42PX9`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack -->overhauls eys of ender and getting to the end
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> eys of ender
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -611,19 +637,6 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
-## linear-progression
-<!-- packreg:auto -->
-- File: `linear-progression-1.7.5.jar`
-- Source: modrinth (`v6cbEGV6`)
-- Side: both
-- Version id: `mfqfvxFe`
-<!-- /packreg:auto -->
-
-**Purpose:** <!-- why this mod is in the pack --> alters many aspects of vanilla progression. 
-**Owns:** <!-- which system it is the authority for, or 'nothing' --> progression
-**Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
-
 ## lithium
 <!-- packreg:auto -->
 - File: `lithium-neoforge-0.15.4+mc1.21.1.jar`
@@ -850,6 +863,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## progression-reforged
+<!-- packreg:auto -->
+- File: `progressionreforged-1.6.1.jar`
+- Source: modrinth (`dvNBMVMp`)
+- Side: both
+- Version id: `81X7AhnW`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> alters pickaxe and tool recipies and progression
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> tool progression
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## resourceful-config
 <!-- packreg:auto -->
 - File: `resourcefulconfig-neoforge-1.21-3.0.11.jar`
@@ -904,6 +930,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
+
+## runiclib
+<!-- packreg:auto -->
+- File: `neoforge-runiclib-1.21.1-5.0.7.jar`
+- Source: modrinth (`mk0Htq87`)
+- Side: both
+- Version id: `tk5EQpUG`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod for dungeons delight
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## rustic-delight
 <!-- packreg:auto -->
@@ -1114,6 +1153,20 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## trimseffects
+<!-- packreg:auto -->
+- File: `trimeffects-neoforge-mc1.21-2.1.1.jar`
+- Source: modrinth (`BL7ADJ7w`)
+- Side: both
+- Version id: `bEjVixg6`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds effects for armor with trims
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> trims
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21
 
 ## upgrade-aquatic
 <!-- packreg:auto -->

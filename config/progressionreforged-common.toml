@@ -1,0 +1,2 @@
+#For now, this option is mostly useless, but in the future I plan to add an option to disable copper tools for players who already have them from other mods.
+enableCopperTools = true

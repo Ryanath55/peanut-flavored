@@ -1,0 +1,13 @@
+name = "Progression Reforged"
+filename = "progressionreforged-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dvNBMVMp/versions/81X7AhnW/progressionreforged-1.6.1.jar"
+hash-format = "sha512"
+hash = "d88373abe88d50141e4a2b718e544933fd31881e46750e2dea79bfa171ccb78b01d918c78e7be59d01cb0b6844ba61816e24ff697a4e956165c9fd2fba840699"
+
+[update]
+[update.modrinth]
+mod-id = "dvNBMVMp"
+version = "81X7AhnW"
