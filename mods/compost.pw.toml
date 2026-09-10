@@ -1,0 +1,13 @@
+name = "Compost"
+filename = "compost-neoforge-1.21.1-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1hn9SStW/versions/MHA8uHT7/compost-neoforge-1.21.1-3.0.2.jar"
+hash-format = "sha512"
+hash = "b9b20d906b917a9eba2eb2f9719deb1a5b724a7426f824feb76435d578c4ddb58edae4f3145c16985f49325e2f13fca9b569e6f635196f4c6e845dc9e38637c0"
+
+[update]
+[update.modrinth]
+mod-id = "1hn9SStW"
+version = "MHA8uHT7"

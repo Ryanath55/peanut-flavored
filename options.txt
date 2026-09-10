@@ -167,10 +167,14 @@ key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.closeRecipeGui:key.keyboard.escape
 key_key.jei.copy.recipe.id:key.keyboard.unknown
 key_key.solonion.open_food_book:key.keyboard.unknown
+key_key.toggleVisualItemContents:key.keyboard.unknown
+key_key.toggleSelectedItemTooltips:key.keyboard.unknown
+key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.ponder.ponder:key.keyboard.w
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.map_atlases.open_minimap:key.keyboard.m
 key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract

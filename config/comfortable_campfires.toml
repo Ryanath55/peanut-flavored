@@ -10,5 +10,5 @@ amplifier = 0
 
 # What effects should be applied
 [effects]
-	"minecraft:campfire" = "minecraft:regeneration"
 	"minecraft:soul_campfire" = "minecraft:regeneration"
+	"minecraft:campfire" = "minecraft:regeneration"

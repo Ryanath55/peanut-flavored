@@ -294,6 +294,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> was conflicting with Barren skies biome placement - resolved
 
+## bookshelf-lib
+<!-- packreg:auto -->
+- File: `bookshelf-neoforge-1.21.1-21.1.81.jar`
+- Source: modrinth (`uy4Cnpcm`)
+- Side: both
+- Version id: `1sdJl7J1`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## brewin-and-chewin
 <!-- packreg:auto -->
 - File: `BrewinAndChewin-neoforge-4.5.0+1.21.1.jar`
@@ -466,6 +479,60 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## compost
+<!-- packreg:auto -->
+- File: `compost-neoforge-1.21.1-3.0.2.jar`
+- Source: modrinth (`1hn9SStW`)
+- Side: both
+- Version id: `MHA8uHT7`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> composting changes
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## connector
+<!-- packreg:auto -->
+- File: `connector-2.0.0-beta.17+1.21.1-full.jar`
+- Source: modrinth (`u58R1TMW`)
+- Side: both
+- Version id: `IITF0PRC`
+- CHECK: pre-release build
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> pre-release build
+
+## continuity
+<!-- packreg:auto -->
+- File: `continuity-3.0.0+1.21.neoforge.jar`
+- Source: modrinth (`1IjD5062`)
+- Side: client
+- Version id: `eXGUs5sy`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
+
+## controlling
+<!-- packreg:auto -->
+- File: `Controlling-neoforge-1.21.1-19.0.5.jar`
+- Source: modrinth (`xv94TkTM`)
+- Side: client
+- Version id: `FaNppCJJ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> searchable keybinds
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## cookielicious
 <!-- packreg:auto -->
 - File: `Cookielicious-1.21.1-1.0.1.jar`
@@ -514,6 +581,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack -->create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## cosmetic-armor-reworked-forked
+<!-- packreg:auto -->
+- File: `cosmeticarmorreworkedforked-neoforge-1.21.1-0.0.4.jar`
+- Source: curseforge (`1434118`)
+- Side: both
+- Version id: `7685857`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> cosmetic armor
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -791,6 +871,32 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## cut-through
+<!-- packreg:auto -->
+- File: `CutThrough-v21.1.0-1.21.1-NeoForge.jar`
+- Source: modrinth (`Dk6su9JN`)
+- Side: client
+- Version id: `5P5tLHSh`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> cut through grass with swords
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## death-knell
+<!-- packreg:auto -->
+- File: `deathknell-neoforge-1.21.1-21.1.2.jar`
+- Source: modrinth (`WNdd2blX`)
+- Side: both
+- Version id: `DILKFbOf`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds more death messages
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## display-delight
 <!-- packreg:auto -->
 - File: `displaydelight-1.6.0.jar`
@@ -844,6 +950,45 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
+
+## dynamiccrosshair
+<!-- packreg:auto -->
+- File: `dynamiccrosshair-9.11+1.21.1-neoforge.jar`
+- Source: modrinth (`ZcR9weSm`)
+- Side: client
+- Version id: `RShcBQz5`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> context aware crosshair 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## easy-anvils
+<!-- packreg:auto -->
+- File: `EasyAnvils-v21.1.0-1.21.1-NeoForge.jar`
+- Source: modrinth (`OZBR5JT5`)
+- Side: both
+- Version id: `fSQSKhdF`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> anvil rework
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## easy-shulker-boxes
+<!-- packreg:auto -->
+- File: `EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar`
+- Source: modrinth (`gA5euN8S`)
+- Side: both
+- Version id: `OBp8ltOS`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> shulterbox rework
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## edf-remastered
 <!-- packreg:auto -->
@@ -1004,6 +1149,20 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
 
+## every-compat
+<!-- packreg:auto -->
+- File: `everycomp-1.21-2.11.50-neoforge.jar`
+- Source: modrinth (`eiktJyw1`)
+- Side: both
+- Version id: `vcMMscKB`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> wood compat
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
 ## explorify
 <!-- packreg:auto -->
 - File: `Explorify v1.6.5.mod.jar`
@@ -1013,6 +1172,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> adds structures
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## explosive-enhancement-forge
+<!-- packreg:auto -->
+- File: `explosiveenhancement-neoforge-1.21.1-1.1.2.jar`
+- Source: modrinth (`r0camchr`)
+- Side: client
+- Version id: `XVYkZnNg`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> better explosion FX
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -1587,6 +1759,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## prickle
+<!-- packreg:auto -->
+- File: `prickle-neoforge-1.21.1-21.1.11.jar`
+- Source: modrinth (`aaRl8GiW`)
+- Side: both
+- Version id: `EE1FHDyD`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## progression-reforged
 <!-- packreg:auto -->
 - File: `progressionreforged-1.6.1.jar`
@@ -1799,6 +1984,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## sable-ragdolls-cosmetic-armor-reworked-forked
+<!-- packreg:auto -->
+- File: `ragdollscosmeticarmorfix-1.0.jar`
+- Source: curseforge (`1672451`)
+- Side: both
+- Version id: `8756902`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> visual fix with cosmetic armor
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## sable_beyond
 <!-- packreg:auto -->
 - File: `sablebeyond-neoforge-1.21.1-v0.5.0.jar`
@@ -1823,6 +2021,19 @@ is here, that is the finding.
 **Purpose:** <!-- why this mod is in the pack --> adds a tempature/thurst system for making deserts harder
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> player tempature
 **Config:** <!-- what you changed away from defaults --> increased warming minimum
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## searchables
+<!-- packreg:auto -->
+- File: `Searchables-neoforge-1.21.1-1.0.2.jar`
+- Source: modrinth (`fuuu3xnx`)
+- Side: client
+- Version id: `iEE85X0w`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## simple-grass-flowers
