@@ -305,6 +305,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## creat-aeronautics-structures
+<!-- packreg:auto -->
+- File: `cr_aero_structures.jar`
+- Source: modrinth (`aX7eWKKb`)
+- Side: both
+- Version id: `GgCMtS4V`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds structures
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## create
 <!-- packreg:auto -->
 - File: `create-1.21.1-6.0.10.jar`
@@ -526,6 +539,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## cupboard
+<!-- packreg:auto -->
+- File: `cupboard-1.21.1-4.1.jar`
+- Source: curseforge (`326652`)
+- Side: both
+- Version id: `8749806`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## curios
 <!-- packreg:auto -->
 - File: `curios-neoforge-9.5.1+1.21.1.jar`
@@ -536,6 +562,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> equipment slot mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> extra equipment slots
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## display-delight
+<!-- packreg:auto -->
+- File: `displaydelight-1.6.0.jar`
+- Source: modrinth (`yXepZhp8`)
+- Side: both
+- Version id: `LhcOrDyJ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> farmers delight addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -709,6 +748,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> adds new biomes, with special mobs and items.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing 
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## explorify
+<!-- packreg:auto -->
+- File: `Explorify v1.6.5.mod.jar`
+- Source: modrinth (`HSfsxuTo`)
+- Side: both
+- Version id: `CuBdAr31`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds structures
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -924,6 +976,58 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> pre-release
 
+## lukis-ancient-cities
+<!-- packreg:auto -->
+- File: `lukis-ancient-cities-v1.2.jar`
+- Source: modrinth (`13uF4XO7`)
+- Side: both
+- Version id: `8jJSPQok`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> reworks ancient city gen
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## lukis-crazy-chambers
+<!-- packreg:auto -->
+- File: `lukis-crazy-chambers-1.0.3.jar`
+- Source: modrinth (`JeZoobNU`)
+- Side: both
+- Version id: `CPFsfPNM`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> reworks trial chamber gen
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## lukis-grand-capitals
+<!-- packreg:auto -->
+- File: `lukis-grand-capitals-1.1.3.jar`
+- Source: modrinth (`8Lw09aLb`)
+- Side: both
+- Version id: `RBwKCOh4`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> reworks village gen
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## lukis-strongholds
+<!-- packreg:auto -->
+- File: `lukis-strongholds-v1.0.jar`
+- Source: modrinth (`reQ63xx3`)
+- Side: both
+- Version id: `i7i69H6Y`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> reworks stronghold gen
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## lukis-woodland-mansions
 <!-- packreg:auto -->
 - File: `lukis-woodland-mansions-v1.0.jar`
@@ -950,6 +1054,34 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> maps
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
+
+## mes-moogs-end-structures
+<!-- packreg:auto -->
+- File: `MoogsEndStructures-universal-1.21-2.1.0.jar`
+- Source: modrinth (`r4PuRGfV`)
+- Side: both
+- Version id: `xaGHkaus`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack -->adds structures to the end
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
+
+## mns-moogs-nether-structures
+<!-- packreg:auto -->
+- File: `MoogsNetherStructures-1.21-3.0.0.jar`
+- Source: modrinth (`nGUXvjTa`)
+- Side: both
+- Version id: `RFeEhpv4`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds structures to the nether
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
 
 ## modernfix
 <!-- packreg:auto -->
@@ -1043,6 +1175,20 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## mss-moogs-soaring-structures
+<!-- packreg:auto -->
+- File: `MoogsSoaringStructures-1.21-2.1.2.jar`
+- Source: modrinth (`RJCLIx7k`)
+- Side: both
+- Version id: `i1RQPVjQ`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds structures to the sky
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
 
 ## my-nethers-delight
 <!-- packreg:auto -->
@@ -1448,6 +1594,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> fixes phys object render distance
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## structure-essentials-forge-fabric
+<!-- packreg:auto -->
+- File: `structureessentials-1.21.1-5.0.jar`
+- Source: curseforge (`832882`)
+- Side: both
+- Version id: `7962596`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure generation config
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->

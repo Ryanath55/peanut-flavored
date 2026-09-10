@@ -81,6 +81,18 @@ file = "config/aeronautics-server.toml"
 hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
 
 [[files]]
+file = "config/aeronautics_utility_objects-server.toml"
+hash = "edea082f1cc16fd1ceff50c9a7166ae98e8e1239346a47b157d5055355542af7"
+
+[[files]]
+file = "config/aeroworks-client.toml"
+hash = "628087ba57e5d8428a316f39a43d521fdae4b676a37aed81eedca9a91239db4a"
+
+[[files]]
+file = "config/aeroworks-common.toml"
+hash = "0510d990fdac82c113adff0055c3a3a5bb318a1a0d70d637dbbbe2f955261600"
+
+[[files]]
 file = "config/allurement-client.toml"
 hash = "b1aef6e7f71eda8d7543682b3a26292393439b2913313af2b53752bf68b906e0"
 
@@ -149,6 +161,22 @@ file = "config/colored_lighting.json"
 hash = "5c57cdd1a8e52a8e5386620b143893e0f8fe330677166a34338e5e67fe3b26ef"
 
 [[files]]
+file = "config/copycats-client.toml"
+hash = "381f51308cca7e8aaa1aebb9253a6be686f74ebc70d4da39dd7750d2ca2e9598"
+
+[[files]]
+file = "config/copycats-common.toml"
+hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
+
+[[files]]
+file = "config/copycats-server.toml"
+hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
+
+[[files]]
+file = "config/cr_aero_structures-client.toml"
+hash = "784eb1fd279df7d0a553dfe8990604302b9ff83e534ce09795f768e073463ddd"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
 
@@ -159,6 +187,62 @@ hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
 [[files]]
 file = "config/create-server.toml"
 hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
+
+[[files]]
+file = "config/create_central_kitchen-client.toml"
+hash = "0a1393aff89a803f574fcdb72a6c39c7fcdc95fae4e9ccf3d53cbd155c405c9d"
+
+[[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "e211c5226a565d1affc5d6c2f752cc5856369a6118ca2fef3a2b61f3fa36a5a8"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "0c352f9d7c4bcf09d676222a1cd1cba8689b0dd1ca0847ff90427bae620a5ec6"
+
+[[files]]
+file = "config/create_connected-server.toml"
+hash = "e2459ed5488a8abe79b0987c7527655c6fcc4677b15231fb5b630298b0119d4b"
+
+[[files]]
+file = "config/create_dragons_plus-client.toml"
+hash = "cf30f0e99ef65fe80e80481bf9aaafefdbbf97adb84c0c3611ac2d9ca3cf8a28"
+
+[[files]]
+file = "config/create_dragons_plus-common.toml"
+hash = "134e5d1beb5e8cc7f22e20178c2a995ab4e1e83ddeca8048739ed000fc3a964e"
+
+[[files]]
+file = "config/create_dragons_plus-server.toml"
+hash = "5cb394da4ab837f0efa4378a70c7a4fcd639992ac4a705f9c7976b73638309a2"
+
+[[files]]
+file = "config/create_dragons_plus-simulated-extension-server.toml"
+hash = "60bad6819e405b276d23b238592add8c7ec92062951d83a812d25a63ab5b6b83"
+
+[[files]]
+file = "config/createbigcannons-client.toml"
+hash = "2d14d343a8fb8130c42d1b7bc9116d1646f74d9a0877d796892c6ec3b666b2b6"
+
+[[files]]
+file = "config/createbigcannons-server.toml"
+hash = "f9b43150ae555d8c43f6a65f41a0c3b31dc344eb01c7f6b2608fd0a016294b0c"
+
+[[files]]
+file = "config/createdieselgenerators-client.toml"
+hash = "2f1d8f05b215da49383ae8a04ffadcb12202830a6cb2fbada26caaed9ce35dec"
+
+[[files]]
+file = "config/createdieselgenerators-common.toml"
+hash = "9745e0b82765ee9ac86c4340a941e1f26c10b2da19296928d99169fc36dfea1a"
+
+[[files]]
+file = "config/createdieselgenerators-server.toml"
+hash = "3ff7bfbdf8353dffba0809215ab4812f63443843128b3d40ae6b377aeda94855"
+
+[[files]]
+file = "config/createdynlight-client.toml"
+hash = "1a83004fb3cd30fcf947beccf007280dc19b195ae504711375d4065a7827f9a7"
 
 [[files]]
 file = "config/creativecore-client.json"
@@ -173,6 +257,10 @@ file = "config/culturaldelights-common.toml"
 hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
 [[files]]
+file = "config/cupboard.json"
+hash = "df8f2d20dd1bcb60958803079da449204157421fc68b14762b19f0da2a2bbfde"
+
+[[files]]
 file = "config/curios-client.toml"
 hash = "8af475d222d452c40b548db89c8956f3e4d1e2aaf729464e3065f029936b3e0d"
 
@@ -183,6 +271,18 @@ hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
 [[files]]
 file = "config/curios-server.toml"
 hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
+file = "config/displaydelight-common.toml"
+hash = "c3b979ca6d4cc07cb07e02fa452a3722ff94355d5f7faa04dc6cb28c07cea82a"
+
+[[files]]
+file = "config/dnd_aero_compat-common.toml"
+hash = "6c2bceac7ee8daf3a81cff0a836ebb3dbce251a243ea375632dc5a92e29c503d"
+
+[[files]]
+file = "config/dndecor-server.toml"
+hash = "c1048c2d0455dbc9510aee18da9ad728cf21ca7307aaea4c3a5490ac90f3bb2d"
 
 [[files]]
 file = "config/dungeonsdelight-client-config.toml"
@@ -242,7 +342,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "e28d7d971ba7c67fc6c1d0e7dd08169dac41cb4b6fdd64295d0f41948a072290"
+hash = "1f2f240180ccb9d2f7a523b968dab7a226f78b35c36d23fac0b8dfcd7d83d2a7"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -294,7 +394,35 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "de30480e98474223e491beea19f5756086663fa0c47112687069bb2ca0e23f4f"
+hash = "282b856fe593a509574b567e6dfc8afd7f7ad173bdc3dbc44982e337de4d7d37"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
+
+[[files]]
+file = "config/jei/blacklist.json"
+hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "3691319148dbb9c0f07e18682bdb911279d36e25708ad644db24fbd5cdd7c516"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "8bb0722d480964720a1500654493b5be225c74f7ff3f94e8658e39db5ab098ad"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "8ad92a50e0f88691593490e706ab5cab3c877e284b7190d60e7973acb63f0972"
 
 [[files]]
 file = "config/lithium.properties"
@@ -334,7 +462,7 @@ hash = "a6d5e783dc1469e925d4cf62f17a94ee2dff4ff025d9ed9e61b129581019cdf3"
 
 [[files]]
 file = "config/moreculling.toml"
-hash = "db63bd41fae1b92828f13b34b93215549ca167ccf44a4c09d050fe559fa203a5"
+hash = "ca1060055ff04e28f2f328f90ae6ba1a393a7d0e8b875f1f93bd4b7dd22ab39c"
 
 [[files]]
 file = "config/mynethersdelight-common.toml"
@@ -377,12 +505,20 @@ file = "config/progressionreforged-common.toml"
 hash = "7af22845ce95118b2b60b2766f6666e6195fa155e07f1a07cc5e412aa0d4bd29"
 
 [[files]]
+file = "config/ragdoll_corpse-common.toml"
+hash = "db4960228ca752a3ccc671d59a5547543c6624da547a7ffd23f31d4a12d70c37"
+
+[[files]]
 file = "config/resourcify.json"
 hash = "ade1b4a28332a849a0b3dfe006db3d1ef22810301999316fd58a34b130968fb5"
 
 [[files]]
 file = "config/rimlight.json"
 hash = "402fcad87b4653e836e27ec9a0d1ea2c1b23bad7f58519e95f41251eeb0d3ce7"
+
+[[files]]
+file = "config/ritchiesprojectilelib-server.toml"
+hash = "793c05c7f9975032f536f7b9702a4f892b8beb31e641af1f12ee9c96aed4d013"
 
 [[files]]
 file = "config/rrls.toml"
@@ -407,6 +543,34 @@ hash = "43d5cdfc1997a8aaabfc301e746b773319999d348661a1a7a04b37a70fda93c1"
 [[files]]
 file = "config/sable-server.toml"
 hash = "9c3e9012ea23ca1449fdfc7df7a8134d4f0f2eacc46f8f8c1ab9ccb2b4510783"
+
+[[files]]
+file = "config/sable_beyond/common.json"
+hash = "3e8770e5208eda7850b33c194d074777b89cb4f3f796efd42aeacdb23d4fb84b"
+
+[[files]]
+file = "config/sable_beyond/dynamic-mass.json"
+hash = "98f9b1b3790f666691bcea393090b3affe33414ce80c4f6fb072f1ab911a12c4"
+
+[[files]]
+file = "config/sable_beyond/entity-mass.json"
+hash = "fa29247f1d992e3d82a0f298124c969389bfc67fd7abf2666460c9b3538789e8"
+
+[[files]]
+file = "config/sable_beyond/neoforge-compatibility.json"
+hash = "9d0975d91d88b0d3b56f74d4eaf41f91ba47b36118ca81d2384c6fa8481bdfc9"
+
+[[files]]
+file = "config/sable_beyond/other.json"
+hash = "fa7c17a7e47b1f4624c38751d6a680ba78cb8c155521aa455188b71c474a5072"
+
+[[files]]
+file = "config/sable_player_ragdoll-client.toml"
+hash = "ba2fc82938fa99ce48435c574cdd542aff177dd79846828c630447fc9ecc860c"
+
+[[files]]
+file = "config/sable_player_ragdoll-server.toml"
+hash = "1b02af673b3f0d65a5d70b8c1c531d07c3663dab7fbd87066287b78d91b36aed"
 
 [[files]]
 file = "config/scorchful.json"
@@ -434,7 +598,7 @@ hash = "8c17330d9f9804cd1540b0f442c7f7b7d1dbd3ccb3e22f6c4af222753ffd49ac"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "b469321d401a41f2d8d451e7288b217f93377e3e9eaccf29db2fc717f30351b4"
+hash = "a736902c932749be7bf4e583daad1d12d48bab7d63a6d51802a27b76a9912d8e"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -447,6 +611,10 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 [[files]]
 file = "config/sodium-options.json"
 hash = "ef3242a314c4311b64b88ce016acea790d42a35f7c81f0a02934841e64efcda1"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "d8ebc5a26f6f4fc0d27c3746a3aa6ec8d2652873bd3cec6f254be1628f0472f7"
 
 [[files]]
 file = "config/solonion-client.json"
@@ -466,7 +634,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "ad5844410f31ffcb240fe357ca7c396ff85b361acd1ee6297af16e056ebbb4bd"
+hash = "cb4b49ae5e2695f146e0f6a52c22be1b69cf66861933e1c5bec3f2bdad81278b"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -495,6 +663,14 @@ hash = "f8f1818ba5c8887bd01973839f9a413c1232cc1a1c4be7e5c72250ff2af042e7"
 [[files]]
 file = "config/sparsestructures.json5"
 hash = "bcdbf95d0b920eee5e12eb7c421f9d6476e4bbfd75bf7542185c6b30dd63d7e6"
+
+[[files]]
+file = "config/ssrd-common.toml"
+hash = "f02c4f19736ba21f48c0100128ad3208d2cec4e2fae2fa52b3a3b8639cc69c3c"
+
+[[files]]
+file = "config/structureessentials.json"
+hash = "15749f362663ab26c9f7bb1aa65fc280c5cf3ba5599a26c9caa1e9fb79da1efc"
 
 [[files]]
 file = "config/terralith.json"
@@ -660,6 +836,11 @@ hash = "4892513825f87217b6cc3f4d3ec4dcd3965b96dede8cc10d6578c4769102ae8e"
 metafile = true
 
 [[files]]
+file = "mods/creat-aeronautics-structures.pw.toml"
+hash = "692aa6f5a5254b7eee23afec6275f9ee6dd9b46ac2c25cf1929a55e2310f1d36"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-encased-fluid-pipes.pw.toml"
 hash = "c43a63422172da82f7bf9331f54b298058df9fbef57cb32473de691ce91f580d"
 metafile = true
@@ -745,8 +926,18 @@ hash = "7dc4daef7f7fbd4f89aa502f54ec24049a60c016e47d2b37776f3905623e3578"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "8e83d6344bba3711337872275843631ec1046884d44b1b579f3c4566448c3697"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
 metafile = true
 
 [[files]]
@@ -812,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/environmental.pw.toml"
 hash = "5b64fa213a8fc7175490682b51c961528142092104b105e2021ceff648152936"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
@@ -895,6 +1091,26 @@ hash = "e95a7c54f936eda33a548766784f806aef2195204864a79e8535ce132c94e0f1"
 metafile = true
 
 [[files]]
+file = "mods/lukis-ancient-cities.pw.toml"
+hash = "ac34910b0e0549485d26cd305bdc2f65344be377d210c9b06eb7cb8c4b99918c"
+metafile = true
+
+[[files]]
+file = "mods/lukis-crazy-chambers.pw.toml"
+hash = "d9259ff846ac2b9755893a29fa1e6bf120cce7a4c90836011e65c22fe1e4ddb3"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "2fe01d8046db2246c6df01eedd1fbc7837c08cc6d3b2a9017107ade989e86a28"
+metafile = true
+
+[[files]]
+file = "mods/lukis-strongholds.pw.toml"
+hash = "338f32c02d925119fc87cbd69e6539c4c284d56725cae17efaea727067b7a21e"
+metafile = true
+
+[[files]]
 file = "mods/lukis-woodland-mansions.pw.toml"
 hash = "0024e497d2569c6e0b20ea51593cefb785c35edf2f2a40a1aae7f6ed96b655b3"
 metafile = true
@@ -902,6 +1118,16 @@ metafile = true
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "914b1149de9f334985644ceae82107dc2eeb55d85bf6dda1f64d357feb33c83a"
+metafile = true
+
+[[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "87bf8865ddcb032edde17591db3dd8af9d8c5bcf7431b9a89b9df2b02d994bc6"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "4dbe622653746a01557da046d01186320a4dda8fc8cb26679121c2892d98f018"
 metafile = true
 
 [[files]]
@@ -937,6 +1163,11 @@ metafile = true
 [[files]]
 file = "mods/mru.pw.toml"
 hash = "2f440147fd28b6f035a2cacdaa929be79547a9e1f6de8d10f287f1b34d8717ad"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "8cd841c728c5b07e9b90fb65e57c67f3dd06e95bef570feb106ac2b191ded654"
 metafile = true
 
 [[files]]
@@ -1092,6 +1323,11 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "aa584566e7edf979e1cc8ea3c5d812224c8223add42fa06f8c3d81a84b88ed57"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
 metafile = true
 
 [[files]]
