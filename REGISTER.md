@@ -619,6 +619,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
+## edf-remastered
+<!-- packreg:auto -->
+- File: `edf-remastered-5.0.2.jar`
+- Source: modrinth (`HQsBdHGd`)
+- Side: both
+- Version id: `5OYoqItD`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> improves ender dragon fight
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## emi
 <!-- packreg:auto -->
 - File: `emi-1.1.24+1.21.1+neoforge.jar`
@@ -1739,5 +1752,148 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> library mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing 
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-api
+<!-- packreg:auto -->
+- File: `YungsApi-1.21.1-NeoForge-5.1.8.jar`
+- Source: modrinth (`Ua7DFN59`)
+- Side: both
+- Version id: `K3Dp2T0P`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-better-desert-temples
+<!-- packreg:auto -->
+- File: `YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar`
+- Source: modrinth (`XNlO7sBv`)
+- Side: both
+- Version id: `GQ9iNWkI`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-better-dungeons
+<!-- packreg:auto -->
+- File: `YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar`
+- Source: modrinth (`o1C1Dkj5`)
+- Side: both
+- Version id: `D6aZn0Em`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-better-end-island
+<!-- packreg:auto -->
+- File: `YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar`
+- Source: modrinth (`2BwBOmBQ`)
+- Side: both
+- Version id: `I52NZ1qK`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-better-jungle-temples
+<!-- packreg:auto -->
+- File: `YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar`
+- Source: modrinth (`z9Ve58Ih`)
+- Side: both
+- Version id: `P00i2hJn`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-better-mineshafts
+<!-- packreg:auto -->
+- File: `YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar`
+- Source: modrinth (`HjmxVlSr`)
+- Side: both
+- Version id: `Go3nbneL`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> shaft to surface looks bad with floating island, will need to fix somehow
+
+## yungs-better-nether-fortresses
+<!-- packreg:auto -->
+- File: `YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar`
+- Source: modrinth (`Z2mXHnxP`)
+- Side: both
+- Version id: `iopJiJQp`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack -->structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-better-ocean-monuments
+<!-- packreg:auto -->
+- File: `YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar`
+- Source: modrinth (`3dT9sgt4`)
+- Side: both
+- Version id: `yFjEcj2g`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-better-witch-huts
+<!-- packreg:auto -->
+- File: `YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar`
+- Source: modrinth (`t5FRdP87`)
+- Side: both
+- Version id: `AvedwcIe`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-extras
+<!-- packreg:auto -->
+- File: `YungsExtras-1.21.1-NeoForge-5.1.1.jar`
+- Source: modrinth (`ZYgyPyfq`)
+- Side: both
+- Version id: `N2EpMhR7`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> structure overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yungs-menu-tweaks
+<!-- packreg:auto -->
+- File: `YungsMenuTweaks-1.21.1-NeoForge-2.1.2.jar`
+- Source: modrinth (`Hcy2DFKF`)
+- Side: client
+- Version id: `OB9hQTpQ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> menu tweaks 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
