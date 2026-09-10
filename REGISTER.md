@@ -19,6 +19,32 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults --> 
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## advancement-plaques
+<!-- packreg:auto -->
+- File: `AdvancementPlaques-1.21.1-neoforge-1.6.8.jar`
+- Source: modrinth (`9NM0dXub`)
+- Side: client
+- Version id: `OWylG33I`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> visual improvement for getting advancments
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## aeronautics-wind-sound
+<!-- packreg:auto -->
+- File: `aeronautics_windsound-1.0.1.jar`
+- Source: modrinth (`XU9MYvTx`)
+- Side: client
+- Version id: `9p7pjRKb`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> sound fx
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## alfinolib
 <!-- packreg:auto -->
 - File: `alfinolib-1.2.0-neoforge-1.21.1.jar`
@@ -44,6 +70,33 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> no conflicts, but will need to be connected to immersice enchanting 
+
+## almostunified
+<!-- packreg:auto -->
+- File: `almostunified-neoforge-1.21.1-1.4.2.jar`
+- Source: modrinth (`sdaSaQEz`)
+- Side: both
+- Version id: `e8iYxxI3`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> tool to help unify different materials 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## alternate-current
+<!-- packreg:auto -->
+- File: `alternate_current-mc1.21-1.9.0.jar`
+- Source: modrinth (`r0v8vy1s`)
+- Side: both
+- Version id: `PCNyL6v4`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> redstone fixes
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
 
 ## ambientsounds
 <!-- packreg:auto -->
@@ -94,6 +147,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack -->library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## armor-statues
+<!-- packreg:auto -->
+- File: `ArmorStatues-v21.1.0-1.21.1-NeoForge.jar`
+- Source: modrinth (`bbGCtEvb`)
+- Side: both
+- Version id: `SGpwIu7v`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> armor stand features
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -162,6 +228,33 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## better-lanterns
+<!-- packreg:auto -->
+- File: `Better+Lanterns+v1.2(mc-1.21).zip`
+- Source: modrinth (`PGGrfcvL`)
+- Side: both
+- Version id: `jRAsb6KQ`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lantern resource pack
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
+## better-leaves
+<!-- packreg:auto -->
+- File: `Better-Leaves-9.5.zip`
+- Source: modrinth (`uvpymuxq`)
+- Side: both
+- Version id: `XWtayRKd`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> leaves RP
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## betterf3
 <!-- packreg:auto -->
 - File: `BetterF3-11.0.3-NeoForge-1.21.1.jar`
@@ -227,6 +320,87 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## cat-loaf
+<!-- packreg:auto -->
+- File: `catloaf-1.1.2-1.21-NEOFORGED.jar`
+- Source: modrinth (`Q1ZgOTni`)
+- Side: both
+- Version id: `X1JOqbq2`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> I mean, c'mon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
+## catalogue
+<!-- packreg:auto -->
+- File: `catalogue-neoforge-1.21.1-1.11.2.jar`
+- Source: curseforge (`459701`)
+- Side: both
+- Version id: `6926815`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> mod menu
+**Owns:** <!-- which system it is the authority for, or 'nothing' --> mod menu
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## cerbons-api
+<!-- packreg:auto -->
+- File: `CerbonsAPI-NeoForge-1.21-1.3.0.jar`
+- Source: modrinth (`GkIc6rRo`)
+- Side: both
+- Version id: `5wbxkBQ1`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
+## cerbons-better-beacons
+<!-- packreg:auto -->
+- File: `BetterBeacons-NeoForge-1.21.1-2.1.1.jar`
+- Source: modrinth (`gSeQTNSE`)
+- Side: both
+- Version id: `acPk7j8a`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> special beacon features
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## cerbons-better-beacons-fix
+<!-- packreg:auto -->
+- File: `betterbeacons_fix-1.0.0.jar`
+- Source: modrinth (`zaA3C9wQ`)
+- Side: both
+- Version id: `muYORchr`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat with quark
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## chatanimation
+<!-- packreg:auto -->
+- File: `chatanimation-neoforge-1.3.1+mc1.21.jar`
+- Source: modrinth (`DnNYdJsx`)
+- Side: client
+- Version id: `wC0uTsko`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> in the title
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
 ## clayworks
 <!-- packreg:auto -->
 - File: `clayworks-1.21.1-4.0.3.jar`
@@ -240,6 +414,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## clean-tooltips
+<!-- packreg:auto -->
+- File: `clean_tooltips-1.1-neoforge-1.21.1.jar`
+- Source: modrinth (`vMoHe8uI`)
+- Side: client
+- Version id: `F8TicG1p`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> in the title
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## cloth-config
 <!-- packreg:auto -->
 - File: `cloth-config-15.0.140-neoforge.jar`
@@ -250,6 +437,32 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> library mod that adds tools for making config screens
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> configs
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## clumps
+<!-- packreg:auto -->
+- File: `Clumps-neoforge-1.21.1-19.0.0.1.jar`
+- Source: modrinth (`Wnxd13zP`)
+- Side: both
+- Version id: `jo7lDoK4`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> clumps up xp, helps with clutter and performance. 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## comfortable-campfires
+<!-- packreg:auto -->
+- File: `comfortable-campfires-1.1.2+1.21.1.jar`
+- Source: modrinth (`lOZBoyio`)
+- Side: both
+- Version id: `19Ujuvrx`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> campfires give a buff
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -526,6 +739,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## cubic-sun-moon
+<!-- packreg:auto -->
+- File: `cubic-sun-moon-v1.8.5.zip`
+- Source: modrinth (`g4bSYbrU`)
+- Side: both
+- Version id: `zHa4qeKn`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> RP
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## cultural-delights
 <!-- packreg:auto -->
 - File: `culturaldelights-0.17.8.jar`
@@ -764,6 +990,20 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## esf
+<!-- packreg:auto -->
+- File: `entity_sound_features-0.8.2-1.21-neoforge.jar`
+- Source: modrinth (`IMuO8COj`)
+- Side: client
+- Version id: `eafVUs7O`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
 ## explorify
 <!-- packreg:auto -->
 - File: `Explorify v1.6.5.mod.jar`
@@ -773,6 +1013,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> adds structures
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## fancy-crops
+<!-- packreg:auto -->
+- File: `Fancy Crops v1.3.zip`
+- Source: modrinth (`UGEVQ6t9`)
+- Side: both
+- Version id: `ZJEBZjg6`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack -->RP
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -816,6 +1069,32 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
+
+## fresh-animations
+<!-- packreg:auto -->
+- File: `FreshAnimations_v1.10.4.zip`
+- Source: modrinth (`50dA9Sha`)
+- Side: both
+- Version id: `xN57JJts`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> RP that adds animations
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## fresh-animations-extensions
+<!-- packreg:auto -->
+- File: `FA+All_Extensions-v1.8.1.zip`
+- Source: modrinth (`YAVTU8mK`)
+- Side: both
+- Version id: `RfJ3uz2J`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> RP
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## gallery
 <!-- packreg:auto -->
@@ -866,6 +1145,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> compat for hybrid aquatic and farmers delight
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## iceberg
+<!-- packreg:auto -->
+- File: `Iceberg-1.21.1-neoforge-1.3.2.jar`
+- Source: modrinth (`5faXoLqX`)
+- Side: both
+- Version id: `IMssx9du`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -1256,6 +1548,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## os-colorful-grasses
+<!-- packreg:auto -->
+- File: `Os' Colorful Grasses (Short and Fluffy).zip`
+- Source: modrinth (`O2zhH8n8`)
+- Side: both
+- Version id: `6y5oHV7t`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> RP
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## personality!
 <!-- packreg:auto -->
 - File: `personality-1.21.1-5.0.2.jar`
@@ -1292,6 +1597,32 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> alters pickaxe and tool recipies and progression
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> tool progression
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## puzzles-lib
+<!-- packreg:auto -->
+- File: `PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar`
+- Source: modrinth (`QAGBst4M`)
+- Side: both
+- Version id: `lh44g7RC`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> libary mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## quark
+<!-- packreg:auto -->
+- File: `Quark-4.1-484.jar`
+- Source: modrinth (`qnQsVE2z`)
+- Side: both
+- Version id: `dDePx0Jy`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds many configurable QOL features
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -1494,6 +1825,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults --> increased warming minimum
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## simple-grass-flowers
+<!-- packreg:auto -->
+- File: `Simple Grass Flowers v2.0.0.zip`
+- Source: modrinth (`ti9KkMHm`)
+- Side: both
+- Version id: `Cd4Xa7Sr`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> RP
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## slice-and-dice
 <!-- packreg:auto -->
 - File: `sliceanddice-4.3.3-neoforge.jar`
@@ -1686,6 +2030,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> compat for tide and farmers delight
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## translations-for-sodium
+<!-- packreg:auto -->
+- File: `SodiumTranslations.zip`
+- Source: modrinth (`yfDziwn1`)
+- Side: both
+- Version id: `yJaqpR9F`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> RP
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -1894,6 +2251,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> menu tweaks 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## zeta
+<!-- packreg:auto -->
+- File: `Zeta-1.1-40.jar`
+- Source: modrinth (`MVARlG2f`)
+- Side: both
+- Version id: `9GjNW2Gf`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->

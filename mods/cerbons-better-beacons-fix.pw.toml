@@ -1,0 +1,13 @@
+name = "CERBON'S Better Beacons Fix"
+filename = "betterbeacons_fix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zaA3C9wQ/versions/muYORchr/betterbeacons_fix-1.0.0.jar"
+hash-format = "sha512"
+hash = "97f77f70631d331f0811fceeeeb14d0ede6a324f3643c2d6ebae56da0e2b450bf0df5a8eb3f5ca20a5971fa37eb11eb08e7994edfd3702f65f00ca40db4226f5"
+
+[update]
+[update.modrinth]
+mod-id = "zaA3C9wQ"
+version = "muYORchr"
