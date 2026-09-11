@@ -1,0 +1,13 @@
+name = "MCPitanLib"
+filename = "mcpitanlib-4.0.7-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/qxG6kSZO/mcpitanlib-4.0.7-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "741d90f476f8bbdcb7f0a3b19a1ded7646217935270597b96899399feed02442eda936b4b16b32fd7478c13d3b155eefc4c8df9ee9b7b9301f404dbd4ded6203"
+
+[update]
+[update.modrinth]
+mod-id = "uNRoUnGT"
+version = "qxG6kSZO"

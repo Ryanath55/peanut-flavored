@@ -1,0 +1,6 @@
+{
+  "angry_texture":"moremobvariants:entity/wolf/golden_retriever_angry",
+  "biomes":"minecraft:cherry_grove",
+  "tame_texture":"moremobvariants:entity/wolf/golden_retriever_tame",
+  "wild_texture":"moremobvariants:entity/wolf/golden_retriever_wild"
+}

@@ -1,0 +1,13 @@
+name = "Mod Sound Volume Options"
+filename = "mvo76-neoforge-1.0.6-1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNHwFOKm/versions/dgmVaZnt/mvo76-neoforge-1.0.6-1.21.jar"
+hash-format = "sha512"
+hash = "8cdeabb1e83fc77cbf24ef26d0fc808900f5e3e09795978cd8ec007785ed75ac0217dbb5bccb6af8492a329c0971ecfc1d16323e0205288c105116330328df9d"
+
+[update]
+[update.modrinth]
+mod-id = "SNHwFOKm"
+version = "dgmVaZnt"

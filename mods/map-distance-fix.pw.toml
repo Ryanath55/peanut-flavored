@@ -1,0 +1,13 @@
+name = "Map Distance Fix"
+filename = "mapdistancefix-neoforge-1.1.2+mc1.21-1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/51BNNAng/versions/endXjhx0/mapdistancefix-neoforge-1.1.2%2Bmc1.21-1.21.11.jar"
+hash-format = "sha512"
+hash = "d74f419094340f7f446675e454826d943faf47898a4989d14d6e4ef1681b06614cbbd70ba7e1c4a618ec4c4fd96e4b2c3bc3fd8572f0913549144ed9dba79ff8"
+
+[update]
+[update.modrinth]
+mod-id = "51BNNAng"
+version = "endXjhx0"

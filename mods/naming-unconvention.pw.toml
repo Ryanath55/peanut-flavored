@@ -1,0 +1,13 @@
+name = "Naming Unconvention"
+filename = "naming_unconvention-1.21.1-1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qtgX7pqt/versions/yj2VHy70/naming_unconvention-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "ab5595e6b9977b61540bed441d24e93bc1b3bb5611a840d38d87704ca55ae14959363c7eb8f13d1673836f2854d09f487afce54f9040083f0e205ba9be30273b"
+
+[update]
+[update.modrinth]
+mod-id = "qtgX7pqt"
+version = "yj2VHy70"

@@ -21,7 +21,7 @@
 	zoom_multiplier = 1.0
 	#Controls anchor position of mini-map
 	#Allowed Values: UPPER_LEFT, UPPER_RIGHT, LOWER_LEFT, LOWER_RIGHT
-	anchoring = "UPPER_LEFT"
+	anchoring = "UPPER_RIGHT"
 	#An integer which will offset the mini-map horizontally
 	# Default: 0
 	# Range: -4000 ~ 4000

@@ -1,0 +1,6 @@
+{
+  "angry_texture":"moremobvariants:entity/wolf/german_shepherd_angry",
+  "biomes":"minecraft:meadow",
+  "tame_texture":"moremobvariants:entity/wolf/german_shepherd_tame",
+  "wild_texture":"moremobvariants:entity/wolf/german_shepherd_wild"
+}

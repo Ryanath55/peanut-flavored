@@ -71,6 +71,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> no conflicts, but will need to be connected to immersice enchanting 
 
+## almanac
+<!-- packreg:auto -->
+- File: `Almanac-1.21.1-2-neoforge-1.5.2.jar`
+- Source: modrinth (`Gi02250Z`)
+- Side: both
+- Version id: `cHGan9fQ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## almostunified
 <!-- packreg:auto -->
 - File: `almostunified-neoforge-1.21.1-1.4.2.jar`
@@ -251,6 +264,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> leaves RP
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## betterdays
+<!-- packreg:auto -->
+- File: `betterdays-1.21.1-3.3.6.3-NEOFORGE.jar`
+- Source: modrinth (`tPLE214j`)
+- Side: both
+- Version id: `Ho93yCC3`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> reworks how day/ night works
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -465,6 +491,20 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## cobweb
+<!-- packreg:auto -->
+- File: `cobweb-neoforge-1.21-1.4.0.jar`
+- Source: modrinth (`dQcfqGbl`)
+- Side: both
+- Version id: `c10AZba0`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
 
 ## comfortable-campfires
 <!-- packreg:auto -->
@@ -924,6 +964,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
 
+## distraction-free-recipes
+<!-- packreg:auto -->
+- File: `distraction_free_recipes-neoforge-1.2.1-1.21.1.jar`
+- Source: modrinth (`gbJLUhZP`)
+- Side: client
+- Version id: `H0rFJIiC`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> visual cleanup for EMI/JEI
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## dungeons_delight
 <!-- packreg:auto -->
 - File: `neoforge-dungeonsdelight-1.21.1-1.5.0.jar`
@@ -999,6 +1052,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> improves ender dragon fight
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## emf-compat-core
+<!-- packreg:auto -->
+- File: `emf_compat_core_1.21.1_2.0.0.jar`
+- Source: modrinth (`hbGct5uU`)
+- Side: client
+- Version id: `31At82lp`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod 
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -1242,6 +1308,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> loader name in the filename
 
+## foxified-dense-flowers
+<!-- packreg:auto -->
+- File: `denseflower-1.0.0.jar`
+- Source: modrinth (`qJCQb492`)
+- Side: client
+- Version id: `dd53qCXZ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> visual flower improvement
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## fresh-animations
 <!-- packreg:auto -->
 - File: `FreshAnimations_v1.10.4.zip`
@@ -1293,6 +1372,20 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## harvest-with-ease
+<!-- packreg:auto -->
+- File: `harvest-with-ease-neoforge-1.21-9.4.0.jar`
+- Source: modrinth (`W4Ajthd2`)
+- Side: both
+- Version id: `cjDrwP2Q`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> right click harvest 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
 
 ## hybrid-aquatic
 <!-- packreg:auto -->
@@ -1386,6 +1479,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## inventory-profiles-next
+<!-- packreg:auto -->
+- File: `InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar`
+- Source: modrinth (`O7RBXm3n`)
+- Side: client
+- Version id: `vjuNnHLv`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> inevntory organization
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## iris
 <!-- packreg:auto -->
 - File: `iris-neoforge-1.8.14-beta.1+mc1.21.1.jar`
@@ -1400,6 +1506,58 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> pre-release
 
+## item-obliterator
+<!-- packreg:auto -->
+- File: `Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar`
+- Source: modrinth (`3ESR84kR`)
+- Side: both
+- Version id: `jy3ApWAm`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> allows me to nuke items as a modpack creator
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## jade
+<!-- packreg:auto -->
+- File: `Jade-1.21.1-NeoForge-15.10.6.jar`
+- Source: modrinth (`nvQzSEkH`)
+- Side: both
+- Version id: `eYz2YBGT`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> tool tips for looking at blocks
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## jade-addons-forge
+<!-- packreg:auto -->
+- File: `JadeAddons-1.21.1-NeoForge-6.1.1.jar`
+- Source: modrinth (`xuDOzCLy`)
+- Side: both
+- Version id: `ZHjXkd1n`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat and qol for jad
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## jade-sable-compat
+<!-- packreg:auto -->
+- File: `sablejade-1.3.0.jar`
+- Source: modrinth (`jCrJ4iGH`)
+- Side: client
+- Version id: `cxUohR7A`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## jei
 <!-- packreg:auto -->
 - File: `jei-1.21.1-neoforge-19.53.0.426.jar`
@@ -1409,6 +1567,32 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> recipie system, subservient to EMI
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## keybind-atlas
+<!-- packreg:auto -->
+- File: `KeybindAtlas-v1.4.0-mc1.21.1-neoforge.jar`
+- Source: modrinth (`fokFjwwh`)
+- Side: client
+- Version id: `UbE4gXrR`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> nice visual showing what keys are bound
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## keybind-bundles
+<!-- packreg:auto -->
+- File: `keybindbundles-1.3.1.jar`
+- Source: modrinth (`qs2zRREk`)
+- Side: client
+- Version id: `29ZMr3Xd`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> a nice way to put multiple functions on one key
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -1423,6 +1607,45 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> library mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## leaves-be-gone
+<!-- packreg:auto -->
+- File: `LeavesBeGone-v21.1.1-1.21.1-NeoForge.jar`
+- Source: modrinth (`AVq17PqV`)
+- Side: both
+- Version id: `kAbmpvF3`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> quick leaf decay
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## lets-do-furniture-another-furniture-handcrafted-create-sable
+<!-- packreg:auto -->
+- File: `createfurnitureseats-5.0.jar`
+- Source: modrinth (`W2K5jx3j`)
+- Side: both
+- Version id: `nCfG3qog`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## libipn
+<!-- packreg:auto -->
+- File: `libIPN-neoforge-1.21.1-6.6.3.jar`
+- Source: modrinth (`onSQdWhM`)
+- Side: client
+- Version id: `BGe4KMlE`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -1452,6 +1675,20 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> pre-release
+
+## lmd
+<!-- packreg:auto -->
+- File: `letmedespawn-1.21.x-neoforge-1.5.0.jar`
+- Source: modrinth (`vE2FN5qn`)
+- Side: both
+- Version id: `fgcMDg9B`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> performance related to mob spawning
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
 
 ## lukis-ancient-cities
 <!-- packreg:auto -->
@@ -1532,6 +1769,32 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> version string quirk
 
+## map-distance-fix
+<!-- packreg:auto -->
+- File: `mapdistancefix-neoforge-1.1.2+mc1.21-1.21.11.jar`
+- Source: modrinth (`51BNNAng`)
+- Side: both
+- Version id: `endXjhx0`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> qol feature for maps
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## mcpitanlibarch
+<!-- packreg:auto -->
+- File: `mcpitanlib-4.0.7-1.21.1-neoforge.jar`
+- Source: modrinth (`uNRoUnGT`)
+- Side: both
+- Version id: `qxG6kSZO`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## mes-moogs-end-structures
 <!-- packreg:auto -->
 - File: `MoogsEndStructures-universal-1.21-2.1.0.jar`
@@ -1559,6 +1822,20 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
+
+## mod-volume-options
+<!-- packreg:auto -->
+- File: `mvo76-neoforge-1.0.6-1.21.jar`
+- Source: modrinth (`SNHwFOKm`)
+- Side: client
+- Version id: `dgmVaZnt`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> individual volume sliders for mods
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
 
 ## modernfix
 <!-- packreg:auto -->
@@ -1612,6 +1889,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## more-mob-variants-modernized
+<!-- packreg:auto -->
+- File: `moremobvariants-1.0.0-neoforge-1.21.1.jar`
+- Source: modrinth (`cV0OA46M`)
+- Side: both
+- Version id: `d9Mz6Ci3`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> in the title
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> weird bug not allowing worlds to load, was fixed in packpatches 
 
 ## moreculling
 <!-- packreg:auto -->
@@ -1680,6 +1970,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## naming-unconvention
+<!-- packreg:auto -->
+- File: `naming_unconvention-1.21.1-1.2.jar`
+- Source: modrinth (`qtgX7pqt`)
+- Side: client
+- Version id: `yj2VHy70`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> random name generator for single player worlds
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## neapolitan
 <!-- packreg:auto -->
 - File: `neapolitan-1.21.1-6.0.1.jar`
@@ -1690,6 +1993,59 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> adds icecream with a exploration element
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## necronomicon
+<!-- packreg:auto -->
+- File: `Necronomicon-NeoForge-1.6.0+1.21.jar`
+- Source: modrinth (`P1Kv5EAO`)
+- Side: both
+- Version id: `4iO8Tbfj`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
+## no-chat-reports
+<!-- packreg:auto -->
+- File: `NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar`
+- Source: modrinth (`qQyHxfxd`)
+- Side: both
+- Version id: `ZV8eL55E`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> essential 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## not-enough-animations
+<!-- packreg:auto -->
+- File: `notenoughanimations-neoforge-1.12.4-mc1.21.1.jar`
+- Source: modrinth (`MPCX6s5C`)
+- Side: client
+- Version id: `eYNogep3`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds more animations
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## not-enough-animations-emf-compat
+<!-- packreg:auto -->
+- File: `emf_compat_not_enough_animations_1.21.1_1.2.0.jar`
+- Source: modrinth (`IGCrWfL7`)
+- Side: client
+- Version id: `2PAaJs7w`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> in the title
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -2270,6 +2626,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> trims
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21
+
+## txnilib
+<!-- packreg:auto -->
+- File: `txnilib-neoforge-1.0.24-1.21.1.jar`
+- Source: modrinth (`vBbPDuOs`)
+- Side: both
+- Version id: `M1CyD3Uu`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## upgrade-aquatic
 <!-- packreg:auto -->

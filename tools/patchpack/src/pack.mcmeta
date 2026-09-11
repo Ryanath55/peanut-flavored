@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 48,
-    "description": "Pack Patches — local data fixes for this modpack, loaded for every world via Moonlight's global datapack folder. No patches are active: the Linear Progression durability fix was retired with that mod on 2026-09-08 and is kept in tools/patchpack/disabled."
+    "description": "Pack Patches — local data fixes for this modpack, loaded for every world via Moonlight's global datapack folder. Patch 2: More Mob Variants' wolf variants rewritten into the 1.21.1 format (its 1.21.1 build ships 1.21.5 data, which stops new worlds from being created)."
   }
 }

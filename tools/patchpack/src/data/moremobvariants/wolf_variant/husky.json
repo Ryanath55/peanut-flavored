@@ -1,0 +1,6 @@
+{
+  "angry_texture":"moremobvariants:entity/wolf/husky_angry",
+  "biomes":"minecraft:grove",
+  "tame_texture":"moremobvariants:entity/wolf/husky_tame",
+  "wild_texture":"moremobvariants:entity/wolf/husky_wild"
+}

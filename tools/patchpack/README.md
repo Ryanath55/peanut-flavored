@@ -57,8 +57,30 @@ being read. If it loads silently, it is not, and no argument about load order wi
 
 ## Current patches
 
-None active. The pack is kept in place as the home for the next one, and because an empty datapack costs
-nothing while re-establishing where it has to live would cost the afternoon documented above.
+**2. More Mob Variants: wolf variants rewritten into the 1.21.1 format.** Added 2026-09-10.
+
+`moremobvariants-1.0.0-neoforge-1.21.1.jar` says it targets 1.21.1, but its seven
+`data/moremobvariants/wolf_variant/*.json` files use the 1.21.5+ shape — an `assets` block with
+`angry`/`tame`/`wild` and a `spawn_conditions` list. 1.21.1 wants `angry_texture`, `tame_texture`,
+`wild_texture` and a single `biomes` field. `wolf_variant` is a data-driven registry, so one unparseable
+entry fails the whole registry load, and **no world can be created or opened** while the mod is installed:
+`Failed to load registries due to above errors`, with seven `>> Errors in element moremobvariants:…` lines
+above it in `latest.log`.
+
+The fix rewrites each file with the same textures and the same biome. One needed judgement: `jupiter` spawned
+in `#minecraft:spawns_warm_variant_farm_animals`, a tag that only exists from 1.21.5. It now uses
+`#c:is_hot/overworld`, NeoForge's hot-biome tag, which means the same thing and lets modded hot biomes join in.
+
+Verified against a dev server on a fresh world. Without the patch: seven registry errors and the crash. With
+it: zero errors, world created, enabled packs `[vanilla, mod_data, file/packpatches.zip]`.
+
+What the mod does on 1.21.1 either way: its `cat_variant`, `chicken_variant` and `cow_variant` data is
+silently ignored — those registries are not data-driven on this version. Its 58 ETF random-texture files
+(pigs, sheep and others) are client-side and unaffected. So on this pack it delivers its ETF variants plus,
+with this patch, its seven wolves.
+
+**Remove this patch** once More Mob Variants ships a real 1.21.1 build. The overrides would then only be
+shadowing correct files with identical content, and they would hide any later changes the author makes.
 
 ## Retired patches
 

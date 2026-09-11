@@ -1,0 +1,6 @@
+{
+  "angry_texture":"moremobvariants:entity/wolf/skeleton_angry",
+  "biomes":"minecraft:soul_sand_valley",
+  "tame_texture":"moremobvariants:entity/wolf/skeleton_tame",
+  "wild_texture":"moremobvariants:entity/wolf/skeleton_wild"
+}

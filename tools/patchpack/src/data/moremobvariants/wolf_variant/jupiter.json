@@ -1,0 +1,6 @@
+{
+  "angry_texture":"moremobvariants:entity/wolf/jupiter_angry",
+  "biomes":"#c:is_hot/overworld",
+  "tame_texture":"moremobvariants:entity/wolf/jupiter_tame",
+  "wild_texture":"moremobvariants:entity/wolf/jupiter_wild"
+}
