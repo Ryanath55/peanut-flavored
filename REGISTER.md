@@ -1134,6 +1134,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## creeper-overhaul
+<!-- packreg:auto -->
+- File: `CreeperOverhaul-neoforge-1.21.1-4.0.6.jar`
+- Source: modrinth (`MI1LWe93`)
+- Side: both
+- Version id: `HNrAYCLH`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> title
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## cubic-sun-moon
 <!-- packreg:auto -->
 - File: `cubic-sun-moon-v1.8.5.zip`
@@ -1490,6 +1503,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
 
+## etched
+<!-- packreg:auto -->
+- File: `etched-5.1.0.jar`
+- Source: modrinth (`zi3Fnfmc`)
+- Side: both
+- Version id: `h6eJfwiW`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> a way to play outside music on music discs
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## every-compat
 <!-- packreg:auto -->
 - File: `everycomp-1.21-2.11.50-neoforge.jar`
@@ -1750,6 +1776,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> library mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## handcrafted
+<!-- packreg:auto -->
+- File: `handcrafted-neoforge-1.21.1-4.0.3.jar`
+- Source: modrinth (`pJmCFF0p`)
+- Side: both
+- Version id: `JfqnpP2Z`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> decoration 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -2536,6 +2575,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## piglin-proliferation
+<!-- packreg:auto -->
+- File: `piglinproliferation-1.21.1-2.0.15.jar`
+- Source: modrinth (`iRE67WIn`)
+- Side: both
+- Version id: `NsVkx365`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> piglin overhaul
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## playeranimator
 <!-- packreg:auto -->
 - File: `player-animation-lib-forge-2.0.4+1.21.1.jar`
@@ -2679,6 +2731,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> adds a way to install resources and shaderpacks from inside the game
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## ribbits
+<!-- packreg:auto -->
+- File: `Ribbits-1.21.1-NeoForge-4.1.6.jar`
+- Source: modrinth (`8YcE8y4T`)
+- Side: both
+- Version id: `XrUKaWrw`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> RIBBITS!
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -2849,6 +2914,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## shield-expansion
+<!-- packreg:auto -->
+- File: `shieldexp-neoforge-1.21.1-1.4.1.jar`
+- Source: modrinth (`sjxWxSao`)
+- Side: both
+- Version id: `eDHhr3j9`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds additional shield tiers
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -3036,6 +3114,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## the-roads-more-travelled
+<!-- packreg:auto -->
+- File: `trmt-0.5.1-1.21.1-neoforge.jar`
+- Source: modrinth (`74oZhrEe`)
+- Side: both
+- Version id: `JbhahSQp`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> cool passive path creation
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## thermoo
 <!-- packreg:auto -->
 - File: `thermoo-4.8.1-neoforge.jar`
@@ -3164,6 +3255,32 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> library mod for shaders (may have been needed for shine, could try removing)
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## vista-recipes
+<!-- packreg:auto -->
+- File: `vista_recipes-neoforge-1.21.1-3.1.jar`
+- Source: modrinth (`W1ehYPQv`)
+- Side: both
+- Version id: `bwaT773B`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds recipies for vista cassets
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## vista_tv
+<!-- packreg:auto -->
+- File: `vista-1.21.1-5.5.0-neoforge.jar`
+- Source: modrinth (`zuARv1N7`)
+- Side: both
+- Version id: `aTnRT5k3`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds a viewfinder and tv, good for aeronautics
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -3372,6 +3489,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> menu tweaks 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## yyzs-backpack
+<!-- packreg:auto -->
+- File: `yyzsbackpack-0.0.8-reborn+1.21.1.jar`
+- Source: modrinth (`zO7tsTJN`)
+- Side: both
+- Version id: `bpwAsBgU`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> fairly simple backpack mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->

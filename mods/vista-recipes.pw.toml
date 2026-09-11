@@ -1,0 +1,13 @@
+name = "Vista: Recipes"
+filename = "vista_recipes-neoforge-1.21.1-3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W1ehYPQv/versions/bwaT773B/vista_recipes-neoforge-1.21.1-3.1.jar"
+hash-format = "sha512"
+hash = "7836348f94e221438a31ba43f65b34af1c5b902f1b83516528b27699779f345831ea468c00c2f4fc39e450d0d55fa96e402d78bd849e8f423b9a22b809619657"
+
+[update]
+[update.modrinth]
+mod-id = "W1ehYPQv"
+version = "bwaT773B"

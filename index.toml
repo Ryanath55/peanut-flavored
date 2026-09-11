@@ -106,7 +106,7 @@ hash = "fccc5bab6156c4c38bcdebf4b21c22488536da5631ba8d8d94e41fd5baaa7cad"
 
 [[files]]
 file = "config/aero_cam_sync-client.toml"
-hash = "9993f836b0cdd237189beeccbd36ac77f475e678628c47edaf7016454544f201"
+hash = "c4ec40b1c75a69d877c5ddea4495337a602f0194e50fdb0fbb3910f161c5a181"
 
 [[files]]
 file = "config/aeronautics-server.toml"
@@ -553,6 +553,14 @@ file = "config/creativecore.json"
 hash = "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef"
 
 [[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "d8088bd461dd7666552c4174bac6549e55112728e07aa3addd0e32a805c230fc"
+
+[[files]]
+file = "config/crepperoverhaul-client.jsonc"
+hash = "8ebd8ce17fd98dc18dde0d3271b9237fbc98d9664647940308c9a4d7804dc200"
+
+[[files]]
 file = "config/culturaldelights-common.toml"
 hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
@@ -669,6 +677,14 @@ file = "config/environmental-common.toml"
 hash = "580a0991eefe4940150324d7160b287c9bc19afceca3b5ab6b5f3179996ce83c"
 
 [[files]]
+file = "config/etched-client.toml"
+hash = "7fad6fe5cea17e1ac4e2276796d3a32c2a8c36d8efbe45d01a21e45cd05b8aa8"
+
+[[files]]
+file = "config/etched-server.toml"
+hash = "cb9277a6bcad8f39fdec443f28181ea6e9b38e70781a73a236eb9b9f69e23be6"
+
+[[files]]
 file = "config/etf_warnings.json"
 hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
@@ -682,7 +698,7 @@ hash = "6bccd9a5af80821fe4b83ea397da43adac0b8511bfb7d3b297c038f2b69da8f1"
 
 [[files]]
 file = "config/everycomp-entries.toml"
-hash = "9f851dfcbf459f65d74c47afdec5ca4423afdf01a307fc54309874af8990e8c4"
+hash = "eadb7b22700aa6661d03eb5ace87aef50bcb9f591701d4f6201f44bd82a6934b"
 
 [[files]]
 file = "config/everycomp-hazardous.toml"
@@ -694,7 +710,7 @@ hash = "2fede1a2083a3b775691cd6f6cbc4252436b8b331f7d78704d2ee6c3e7ca9a16"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "e741d3cc600c69c2a956ff541c8e2a508b889cf046588e49f848dd3929159429"
+hash = "ba9259268f5a6ca8fcfe081596c67841e29b8786064e42feaaeebafe43e430fb"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -802,7 +818,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "559a9c4af6d972205ed8cd297880aeb49ed2ddcc2016ee427d853289259d01b2"
+hash = "af009ce7240a6c5ddf0d7b6df704a2f5850c1c700c64b95ca5e8ce49d03bdf26"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -1009,6 +1025,14 @@ file = "config/pickupnotifier/pickupnotifier-server.toml"
 hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
 
 [[files]]
+file = "config/piglinproliferation-client.toml"
+hash = "ed8da9d743db27d04df3154167fcd108a6bd1c42104ee334be2a991e2b04736b"
+
+[[files]]
+file = "config/piglinproliferation-common.toml"
+hash = "fe24c21064ee3b1c1bd0a16d51e0392f02f0665b664ec22c9c6402e623503981"
+
+[[files]]
 file = "config/pipeorgans-client.toml"
 hash = "d097195a20c1479091dd87d2c71f1b3bbe4a0fd5c4606171b37e52f18f2e56ba"
 
@@ -1039,6 +1063,14 @@ hash = "db4960228ca752a3ccc671d59a5547543c6624da547a7ffd23f31d4a12d70c37"
 [[files]]
 file = "config/resourcify.json"
 hash = "ade1b4a28332a849a0b3dfe006db3d1ef22810301999316fd58a34b130968fb5"
+
+[[files]]
+file = "config/ribbits-neoforge-1_21_1.toml"
+hash = "d7426d0b5c3cce1e3be82c6b68bb833efdcde4a52b3b4825502b5b26ee1e8043"
+
+[[files]]
+file = "config/ribbits-options.json"
+hash = "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b"
 
 [[files]]
 file = "config/rimlight.json"
@@ -1107,6 +1139,10 @@ hash = "2d6d13001c969cb509a900b7f8959bf62e0a32e974a93353704a8a18160036dd"
 [[files]]
 file = "config/scorchful.json"
 hash = "7789af5ec5d135f570f3d7eaa1f75aed3f220f0ee0c0580e796a36064d5e3d49"
+
+[[files]]
+file = "config/shieldexp-common.json"
+hash = "a665430f1033038b616f70c4e5dfe39b5787d7214d11cfe82aa4b25b930dceed"
 
 [[files]]
 file = "config/simulated-client.toml"
@@ -1182,7 +1218,7 @@ hash = "e26b00784bb6239988759ed1a64551b9f301dc33c5a855d91e976ee4bf40ac8a"
 
 [[files]]
 file = "config/sound_physics_remastered/sound_rates.properties"
-hash = "4b2a4a3b8a847360ffa4ede81af45c47085e39696a99346ba6557ef735210b18"
+hash = "ad76d8f76c382c4e77b60c648a45079eea213a90ea240472e932407d629cce44"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1225,6 +1261,14 @@ file = "config/structureessentials.json"
 hash = "79c437df43473705c7074749328fe4329d8800a97cf144fd3635a7b71d49ab4b"
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "05e5e95a563d78317ca78b55038a308db39f1148bf41de2cb3e1c79664ee8492"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "5e27c5fbae1a57fbe031725289df72eabb6df5e17f206a9bd18fc1cd47a0ce88"
+
+[[files]]
 file = "config/terralith.json"
 hash = "eadc7fad5ce55fbcec25df521820d36c222d5b12f17006ed9fea34ebeb6fd01d"
 
@@ -1253,6 +1297,14 @@ file = "config/trimseffects-config2.json"
 hash = "937cd9b6aae0a1fcda7a0d1ac1ba1e958bac42749cdeeea3002c70182ed35e60"
 
 [[files]]
+file = "config/trmt-client.json"
+hash = "3f05a62ecf2b307ec62e5bf24f645121685bde1bb8ceae1c0fc375a121dac8c8"
+
+[[files]]
+file = "config/trmt.json"
+hash = "dc616de5844f627b0196f517f4ba92a9a4866a9c2d84a9ca97f4291aa90ac731"
+
+[[files]]
 file = "config/tuningwrench-common.toml"
 hash = "90a3c780c9e8023f7ce119643a43373700be8a2f03affc264707e2168ffcb138"
 
@@ -1267,6 +1319,14 @@ hash = "3825d9207e68afb1b0950db3901e87772bf43d057850311d51549a427df2031f"
 [[files]]
 file = "config/upgrade_aquatic-common.toml"
 hash = "54a5d5af64899fa48cc385aeca1908df4c486e000726a34400dd5a96a89f14e5"
+
+[[files]]
+file = "config/vista-client.toml"
+hash = "d336a12b5391a726f995b3df8b1c18c4775695a6991c1eb7833a2931abfe708e"
+
+[[files]]
+file = "config/vista-common.toml"
+hash = "875db3d3f509144a7a589f8823ae862fd8706d362bb4da0e13d6f47f8a1ea9d5"
 
 [[files]]
 file = "config/visuality/config.toml"
@@ -1313,6 +1373,26 @@ file = "config/yungsmenutweaks-neoforge-1_21.toml"
 hash = "f03258dd68fab838e12affe9c56d7a558a808f0803458b657b77acdc84fd4915"
 
 [[files]]
+file = "config/yyzsbackpack/control/curios.json"
+hash = "9c43fba147bec37b2c31bfde1feef53fa106cb28af4b7521466e9a9507bcf4d7"
+
+[[files]]
+file = "config/yyzsbackpack/control/default.json"
+hash = "c529859a0b107641ce9f383309b09eeda314464f140754ccc495298daaf669bb"
+
+[[files]]
+file = "config/yyzsbackpack/ui/curios.json"
+hash = "053b957b5f0e677f842bdaa228bb8ebe9f78c4568453e94b448ce7c682e5c1e8"
+
+[[files]]
+file = "config/yyzsbackpack/ui/default.json"
+hash = "781071b6e1b849ed77d2d8878e98cf05f5a31f8624147226233b1c60733e7898"
+
+[[files]]
+file = "config/yyzsbackpack/yyzsbackpack.json"
+hash = "63635fac9d608b3babfc9312c248fb8dc481ef75baa7c47fcd8ea7b324cc608b"
+
+[[files]]
 file = "config/zeta-common.toml"
 hash = "d985bfc68899c91aa642736400472f6ab876dedaaef4b8c31f38b52d48de633d"
 
@@ -1330,7 +1410,7 @@ hash = "44bfb991779a3327302e943a0ac918fe0d0484540fd6e3b918087326090e7178"
 
 [[files]]
 file = "dynamic-data-pack-cache/hash.txt"
-hash = "175348a6d8275431a3dbaeb930b90c2daacf3abb0f4e3deb4f65f084c438351b"
+hash = "0e8e14329b534317e67b6aac449308fa67ba0c172e538f071cdd3b9264141f40"
 
 [[files]]
 file = "local/certain_questing_additions/client-config.snbt"
@@ -1761,6 +1841,11 @@ hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "cd4c4ec6ef26d2b61e0cb0bdd398e8d528b88ebf739fc0898bc8cb2f7a88debb"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "7dc4daef7f7fbd4f89aa502f54ec24049a60c016e47d2b37776f3905623e3578"
 metafile = true
@@ -1891,6 +1976,11 @@ hash = "7457f90de1a99108b181802a3b9f6b2be24123aa9a90860067e42e23ffce7011"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "e7e24f7fa2aa5971660befc844caac9d06952bc6b4fd4fe80bdb6e5f371d821b"
 metafile = true
@@ -1973,6 +2063,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
@@ -2266,6 +2361,11 @@ hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
 metafile = true
 
 [[files]]
+file = "mods/piglin-proliferation.pw.toml"
+hash = "edfd95f82d0044f24a8f02e61cd827f120fab42d44fec3abfff0f7c7a13be228"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
@@ -2318,6 +2418,11 @@ metafile = true
 [[files]]
 file = "mods/resourcify.pw.toml"
 hash = "cbbb382ec9574abdb0b0734d4f43b87b9fb607066ea2ac13235bcf37e7ab1794"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "6a598c073aabc968d8ee736141d238c517e13662f3de0feb81796cb9c0d6f4f0"
 metafile = true
 
 [[files]]
@@ -2386,6 +2491,11 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/shield-expansion.pw.toml"
+hash = "87db45eeaa826bfb058d0f6e426c8a0c5381c127c4fd1479fd2886aa48ecbda7"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "83a7b840686a417dfe1161ee5cd918989dd2d901c9013bf85e93a30f597260f7"
 metafile = true
@@ -2451,6 +2561,11 @@ hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
 metafile = true
 
 [[files]]
+file = "mods/the-roads-more-travelled.pw.toml"
+hash = "2cd56626d6ec1c6b366a273043a05fbf7c8cc9d3577513e29ab804bd70ff7cd8"
+metafile = true
+
+[[files]]
 file = "mods/thermoo.pw.toml"
 hash = "8c1348b1d5c9bfa48f6a60eb842039d707af76e34c37f6e44ec18aa46cb9c0a2"
 metafile = true
@@ -2493,6 +2608,16 @@ metafile = true
 [[files]]
 file = "mods/velvet-api.pw.toml"
 hash = "689739dbc65768a51d31729598352c5cac3fd9369203bea125d745112bba23b0"
+metafile = true
+
+[[files]]
+file = "mods/vista-recipes.pw.toml"
+hash = "54fd0d2094bcc3db0c54bd5612d4805fa83b52cfa7517e643b2c981515615213"
+metafile = true
+
+[[files]]
+file = "mods/vista_tv.pw.toml"
+hash = "708ff5f097ce8bf6e1a94388d0eaf9bf0da2af7434b94e425282c812ee721d5b"
 metafile = true
 
 [[files]]
@@ -2576,6 +2701,11 @@ hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
 
 [[files]]
+file = "mods/yyzs-backpack.pw.toml"
+hash = "08e6532d6e2683a8c067eb584d38c9464fe9fef0d805ef4aa9329ecba39d1c52"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
@@ -2591,3 +2721,191 @@ hash = "40828092a8a836d08a6ba88a19244e1099d384faf54d3ca2f598e68296e3633f"
 [[files]]
 file = "ponders_watched_azimuth.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "temp_image_dump.png"
+hash = "a2127e630f0381da8a4952e4842428a6339accfc7907054ec0821b6cab51d260"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/LICENSE"
+hash = "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/README.txt"
+hash = "1c8c50e4df1623673ec236bafe774f3c4ee41a1e6b0cde05e31b7d89b31efa06"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/bin/ffplay.exe"
+hash = "39a9ba4f207fe9eecfb094e632998c29e1da88a5d5d23d0b8b71a357a7c47eb5"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/bootstrap.min.css"
+hash = "3cedecf2b8064b4a56ba47bda04544e1b21d71c83a12e7b5709e7c7976ead70e"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/community.html"
+hash = "ed1a149ca1f5129e31b71f7bf6547a690bbefed1f94b24d3b6cf15b9b5e7cac6"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/default.css"
+hash = "504c4a0980e6ec809da02ce16b73151622a2fdfb4409098c7ce96c1cac9b3735"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/developer.html"
+hash = "cc14a87cf4bb8d9e4509b4f9a7b2ade08015e8e93392dc72a0352a3daf0369ec"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/drawvg-reference.html"
+hash = "e63e3aa79935d162c5e29e8feac866ae899ae0073f45595b3a029b42a897db90"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/faq.html"
+hash = "12e4eaa685c874b975e9ad774aabd588871088a877f531ba2f7aa628b1670c45"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/fate.html"
+hash = "603ae75dc972d486d4901c222ec881d6bb903058311dfcc9cda9f6471c50e3aa"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-all.html"
+hash = "3769955d8402f86969575ab35d60e04c43d67b69c248f1cea3c00bbb48555c26"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-bitstream-filters.html"
+hash = "6783e37c2cafaec9337ac5188d72d1722b539f5bff9c08a1542ae0ec32bfb545"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-codecs.html"
+hash = "1e0c1482d7c0df446173268563f515dca6ed6dedf62b114a834d04ecb8aecfa9"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-devices.html"
+hash = "4cbeaf4948a0c267ea4de2f8bdaae49b169bd7d1a69202a4cf71fe79d9deb1a5"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-filters.html"
+hash = "47a2f160aa4a516f4a86f42d3d3716a7c9ce057df238f9f4c0014730fd19e189"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-formats.html"
+hash = "e28f5c43faa8611c7ca67f4f0accf50e60e2b9b9f8d06781ff6c3ce3307870ad"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-protocols.html"
+hash = "df0bcefb9bdad2b4325513e6da4a8780e1043d2486bf59995e33cfe70309940c"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-resampler.html"
+hash = "ef33b5c00313e980fd8bef875e48ad49534f8d4da3acd62c2cb121cf2f767986"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-scaler.html"
+hash = "77a322683a61362bf302e67fe62560f6c5a4ccb7ef944f5fb7e2e797685436ff"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg-utils.html"
+hash = "f0acb1ad146da71c65450b975f6e7e102eed03ee40eb9163e5d7b70df2e82146"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffmpeg.html"
+hash = "55652233f15f468e2ecfd8af15571de2f7aedc676110882e38a003c5fd968b41"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffplay-all.html"
+hash = "4826c1079c36c410304723fc0fac7c179ca4c923e16c1f903b2e9d5304c14e67"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffplay.html"
+hash = "c94ff755a36c9028aeeaf93f853df75450c23962a7bea43b6ae0177684195c37"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffprobe-all.html"
+hash = "ec58871e57bed8b39b0e2a9cd01772abd85cfe0ce68b30508812ed310f4179ec"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/ffprobe.html"
+hash = "ca1dead6f3c6b93f6245ce6be3101ca2e176c69c768579a8d0d2383b57884763"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/general.html"
+hash = "0da20102efcc3435badffbe91d57672d3e41e459dc7122d583def2778be970dd"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/git-howto.html"
+hash = "e44ed6484fa73f819c59494c68be232728319250bd86c6e32a760ddca620e108"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/libavcodec.html"
+hash = "faf8dd1ae157374e92a685970fa28f21e0df8a2dfb8c3ea99e58d6d956bee879"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/libavdevice.html"
+hash = "cea441629a753d099d8b1032f0814a87cfa113d830f8fcdebd047738cb5481ac"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/libavfilter.html"
+hash = "d02ec4ed1dddb7cb09f9c4e9f2bf38810b3050f6db5f839f398bd6561cab4322"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/libavformat.html"
+hash = "49f9fdced269207bfd3a6bcb63738b3f1dcf2b3c7641eba509fd46f37c5cebcc"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/libavutil.html"
+hash = "ba59342959874520f152b8df5eedde47295929a43e29646392e03c6fcdc2d8e9"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/libswresample.html"
+hash = "f66d2d2e5f29ba56f47d2855d5cd8f276bf207241d024a5a06d0564b96d52bf5"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/libswscale.html"
+hash = "41859c7b95dd3d1089e2189c2dc81b1da920557e66ec181a1f8fe04dcc829118"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/mailing-list-faq.html"
+hash = "e6a26273f248a5ca7f4354fc8b19e4d0bceeefc3c7aa492db58072fdc9e6a944"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/nut.html"
+hash = "3c42c776be67cf21b69dd5a2fe3dd6b08cc196eb9bbb2a9886366b2efa139ce6"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/platform.html"
+hash = "8d6c71e3d28c52cddd7de85fcdbbdd87d22a02fa9905a6b3169ff9767033fd6d"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/doc/style.min.css"
+hash = "02496d7bdbd48d0f332dc94b62668906cbeabc3a8592253d5dfe2e5196522660"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/presets/libvpx-1080p.ffpreset"
+hash = "cf0dca9d029e0aa29c242e5a7ecfb202a55ae41c1acdf5e2e59bf281a0136251"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/presets/libvpx-1080p50_60.ffpreset"
+hash = "4d32bed9032caf8bf4ef8e4bcac427f482c6191396ef6b11f075a264da3a8def"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/presets/libvpx-360p.ffpreset"
+hash = "c2ccd70a941c9b7003e364d7cc0296e8f3dea78cc3a87ccdcaae7c39a1a05b79"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/presets/libvpx-720p.ffpreset"
+hash = "5bcac409c81ec0e11091801d5d1322b5ec6a9bb8617d7dda022acfea0d498d52"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg-9.0.1-essentials_build/presets/libvpx-720p50_60.ffpreset"
+hash = "b08a5ae448cb3cccd23faa6f42c8dbf61ead1a8381fce65636aa01a4a142cb8e"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffmpeg.exe"
+hash = "72a489eccd008c2ec2c0a5856c5c75bc3d8bbfa90166c4566865c246445e6aa3"
+
+[[files]]
+file = "vista_ffmpeg_bin/ffprobe.exe"
+hash = "19202b23c0043f15ad1b7bce2344f406fd52bd6efd8f995ce02e7392a1cec52f"
+
+[[files]]
+file = "vista_ffmpeg_sources.json"
+hash = "575dbec015426b483dba7b4bf3b9bbcd0121c702f880c1deee29637123df3be4"
