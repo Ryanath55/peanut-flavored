@@ -1268,6 +1268,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## farmers-cutting-quark
+<!-- packreg:auto -->
+- File: `farmers-cutting-quark-1.21.1-1.0.jar`
+- Source: modrinth (`rH2QzhPh`)
+- Side: both
+- Version id: `I8fsttD3`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## farmers-delight
 <!-- packreg:auto -->
 - File: `FarmersDelight-1.21.1-1.3.4.jar`
@@ -1346,6 +1359,33 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## fwa
+<!-- packreg:auto -->
+- File: `fwa+1.21.1-neoforge-1.2.31.jar`
+- Source: modrinth (`IAzUFvS6`)
+- Side: client
+- Version id: `79A6vRlK`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds animations to things like doors
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## fzzy-config
+<!-- packreg:auto -->
+- File: `fzzy_config-0.7.6+1.21+neoforge.jar`
+- Source: modrinth (`hYykXjDp`)
+- Side: both
+- Version id: `MAPG6cXE`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> library mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
 
 ## gallery
 <!-- packreg:auto -->
@@ -1475,19 +1515,6 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> create addon
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
-
-## inventory-profiles-next
-<!-- packreg:auto -->
-- File: `InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar`
-- Source: modrinth (`O7RBXm3n`)
-- Side: client
-- Version id: `vjuNnHLv`
-<!-- /packreg:auto -->
-
-**Purpose:** <!-- why this mod is in the pack --> inevntory organization
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -1632,19 +1659,6 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> compat
-**Owns:** <!-- which system it is the authority for, or 'nothing' -->
-**Config:** <!-- what you changed away from defaults -->
-**Conflicts:** <!-- known overlaps and how they were resolved -->
-
-## libipn
-<!-- packreg:auto -->
-- File: `libIPN-neoforge-1.21.1-6.6.3.jar`
-- Source: modrinth (`onSQdWhM`)
-- Side: client
-- Version id: `BGe4KMlE`
-<!-- /packreg:auto -->
-
-**Purpose:** <!-- why this mod is in the pack --> library mod
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -2089,6 +2103,60 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## particle-core
+<!-- packreg:auto -->
+- File: `particle_core-0.3.3+1.21+neoforge.jar`
+- Source: modrinth (`RSeLon5O`)
+- Side: client
+- Version id: `2QF4NhZD`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> performance related to particles
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
+## particle-effects
+<!-- packreg:auto -->
+- File: `ParticleEffects-1.5.0+1.21.1+neoforge.jar`
+- Source: modrinth (`PLAGcSFJ`)
+- Side: client
+- Version id: `AH6BZ7jO`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> unique potion visuals
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## particle-rain
+<!-- packreg:auto -->
+- File: `particlerain-4.0.0-beta.11+1.21.1-neoforge.jar`
+- Source: modrinth (`nrikgvxm`)
+- Side: both
+- Version id: `k32OBTlL`
+- CHECK: pre-release build
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> visual rain upgrade 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
+## particular-reforged
+<!-- packreg:auto -->
+- File: `particular-1.21.1-NeoForge-1.5.7.jar`
+- Source: modrinth (`pYFUU6cq`)
+- Side: client
+- Version id: `WyRBAcBf`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> visual improvements 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## personality!
 <!-- packreg:auto -->
 - File: `personality-1.21.1-5.0.2.jar`
@@ -2112,6 +2180,32 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> adds a way to revive dead pets, and also zombify them
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## pick-up-notifier
+<!-- packreg:auto -->
+- File: `PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar`
+- Source: modrinth (`ZX66K16c`)
+- Side: both
+- Version id: `5NZounJc`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> in the name
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## polymorph
+<!-- packreg:auto -->
+- File: `polymorph-neoforge-1.2.0+1.21.1.jar`
+- Source: modrinth (`tagwiZkJ`)
+- Side: both
+- Version id: `9yWvrF5o`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> recipie button
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
@@ -2163,6 +2257,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> adds many configurable QOL features
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## quarkponders
+<!-- packreg:auto -->
+- File: `QuarkPonders-1.5.1_NeoForge-1.21.1.jar`
+- Source: modrinth (`JY7his81`)
+- Side: client
+- Version id: `9ptDs4Is`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create style ponders for quark
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -2509,6 +2616,20 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## spyglass-improvements
+<!-- packreg:auto -->
+- File: `spyglass_improvements-1.5.7+mc1.21+neoforge.jar`
+- Source: modrinth (`Z6ykjRlM`)
+- Side: client
+- Version id: `F2s6rUr5`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> in the name 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->filename mentions 1.21 but pack targets 1.21.1
+
 ## ssrd
 <!-- packreg:auto -->
 - File: `SSRD-1.8.6-1.21.1.jar`
@@ -2640,6 +2761,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## universal-bone-meal
+<!-- packreg:auto -->
+- File: `UniversalBoneMeal-v21.1.0-1.21.1-NeoForge.jar`
+- Source: modrinth (`66VIiT1y`)
+- Side: both
+- Version id: `5g9aZDW0`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> bone meal everything 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## upgrade-aquatic
 <!-- packreg:auto -->
 - File: `upgrade_aquatic-1.21.1-7.0.1.jar`
@@ -2666,6 +2800,33 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## visual-workbench
+<!-- packreg:auto -->
+- File: `VisualWorkbench-v21.1.2-1.21.1-NeoForge.jar`
+- Source: modrinth (`kfqD1JRw`)
+- Side: both
+- Version id: `3646RfLS`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> visual mod for crafting tables 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## visuality-forge
+<!-- packreg:auto -->
+- File: `visuality-forge-3.0.0.jar`
+- Source: modrinth (`z13R7Et1`)
+- Side: client
+- Version id: `kOdevgPm`
+- CHECK: filename mentions 'forge', pack targets 'neoforge'
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> visual effects 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
 ## woodworks
 <!-- packreg:auto -->
 - File: `woodworks-1.21.1-4.0.2.jar`
@@ -2676,6 +2837,19 @@ is here, that is the finding.
 
 **Purpose:** <!-- why this mod is in the pack --> adds sawmill that works like a stone cutter. 
 **Owns:** <!-- which system it is the authority for, or 'nothing' --> nothing
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## woodworks-quark-compat
+<!-- packreg:auto -->
+- File: `st_wqc-1.21.1-2.0.jar`
+- Source: modrinth (`d8ckxWIR`)
+- Side: both
+- Version id: `3zx1ReZZ`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 

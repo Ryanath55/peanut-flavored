@@ -129,7 +129,6 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.keybindatlas.open_keyboard:key.keyboard.k
-key_key.curios.open.desc:key.keyboard.g
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.createbigcannons.pitch_mode:key.keyboard.c
@@ -177,6 +176,8 @@ key_key.ponder.ponder:key.keyboard.w
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
+key_key.spyglass-improvements.use:key.keyboard.z
+key_key.curios.open.desc:key.keyboard.g
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt
 key_key.map_atlases.open_minimap:key.keyboard.m
@@ -240,7 +241,7 @@ soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:1.0
+soundCategory_ambient:0.5140845070422535
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true

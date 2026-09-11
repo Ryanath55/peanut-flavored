@@ -465,6 +465,10 @@ file = "config/displaydelight-common.toml"
 hash = "c3b979ca6d4cc07cb07e02fa452a3722ff94355d5f7faa04dc6cb28c07cea82a"
 
 [[files]]
+file = "config/distraction_free_recipes-client.toml"
+hash = "1ac3e06b909d5fdcfb07405da21a1c546df068af8f910dd2c78bbb77a04b16e0"
+
+[[files]]
 file = "config/dnd_aero_compat-common.toml"
 hash = "6c2bceac7ee8daf3a81cff0a836ebb3dbce251a243ea375632dc5a92e29c503d"
 
@@ -499,6 +503,10 @@ hash = "f447750708cb0c1773477734490a287ec21161610edac38cf7551ce486702b83"
 [[files]]
 file = "config/easyanvils-server.toml"
 hash = "a5ccc7c1080a0f8a33d45ebb941b38dc607597ade1d128cba504a9cc1a873766"
+
+[[files]]
+file = "config/emf_compat.json"
+hash = "6cf273cc8acf37b68944b938c66b5dea4be72efb77d1ec8a1269ea4a3a3cf5f0"
 
 [[files]]
 file = "config/emi.css"
@@ -570,7 +578,7 @@ hash = "2fede1a2083a3b775691cd6f6cbc4252436b8b331f7d78704d2ee6c3e7ca9a16"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "84321dbad05267de1f46cf4fc61a493bfa80accebdf95efe07add8ab437869c6"
+hash = "464c7aa129b257e466a4a416a86e30fd9c81f5f12f54844f8df1e047fb2ee847"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -591,6 +599,10 @@ hash = "4ae4bcb313f7215d1466a36e008e0f20805c98e1aa5b46b154a81dbfdb098e9d"
 [[files]]
 file = "config/fml.toml"
 hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
+
+[[files]]
+file = "config/fzzy_config/keybinds.toml"
+hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 
 [[files]]
 file = "config/gallery-client.toml"
@@ -621,6 +633,18 @@ file = "config/immersiveenchanting-server.toml"
 hash = "6ea75aae9ad8c80704afa741f5146bda10c099dec026512d7119f83f9bdcd2df"
 
 [[files]]
+file = "config/inventoryprofilesnext/Dramatic Fountain of Oil/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/Dramatic Fountain of Oil/refillDisabledSlots.txt"
+hash = "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+
+[[files]]
+file = "config/inventoryprofilesnext/Dramatic Fountain of Oil/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/inventoryprofilesnext/The Vivid Rocks/prev-villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
@@ -634,7 +658,7 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+hash = "1b2cd8eaee5b7ec9268e65324ae438dc9502794ff07f21e9fac68401fcb5aa13"
 
 [[files]]
 file = "config/iris-excluded.json"
@@ -642,7 +666,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "7160906f84b91404b38c68de6e61c65af81d42287c42097c5050192f8034f063"
+hash = "e9f12a1460055cc4c205de9fa6772aed9baf52b88e40e9973611ab57b0f2f0e5"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -809,12 +833,40 @@ file = "config/offroad-server.toml"
 hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
 
 [[files]]
+file = "config/particle_core_config.toml"
+hash = "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634"
+
+[[files]]
+file = "config/particle_core_disabled_optimizations_v2.json"
+hash = "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d"
+
+[[files]]
+file = "config/particle_effects.json5"
+hash = "d8e4194f91f8f374d89cd84d06a68dd4e3bef91a655d18330acc99842157df21"
+
+[[files]]
+file = "config/particlerain/config.json"
+hash = "e467bad5ddd60ec1f2deee790243ea6a08712d365da472cf46542c8adba84d38"
+
+[[files]]
+file = "config/particular-common.toml"
+hash = "26bebcb2c2a38f280973e18b3554989cdd1fe00724b45a985b5aabb3f09d25d6"
+
+[[files]]
 file = "config/personality-client.toml"
 hash = "4914ed73725014e766419815b7b4203e695d356309d6359b61a34fdad97be445"
 
 [[files]]
 file = "config/personality-common.toml"
 hash = "2b9990f2bd94e2ec77ce46be941fc650c79a54213bcca596a6ebcf3f55f2c6dc"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-client.toml"
+hash = "079be54b7b6059b2864b3ed140dc1e20219589f6afba32dc4ff203c981ea6a4e"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+hash = "f307605d2e9622fcb9290a02a28c37febfe87676faebe600899c339c1f9453e4"
 
 [[files]]
 file = "config/ponder-client.toml"
@@ -827,6 +879,10 @@ hash = "7af22845ce95118b2b60b2766f6666e6195fa155e07f1a07cc5e412aa0d4bd29"
 [[files]]
 file = "config/quark-common.toml"
 hash = "98d33f043727a0608f93c5f301376fe99de396a6980ec410eb9c62ede492663a"
+
+[[files]]
+file = "config/quark_ponders-client.toml"
+hash = "c4a21cbf2aa752dfd6ab086f68d7e62d55fbc8d5df4b849823ff39580bada5d8"
 
 [[files]]
 file = "config/ragdoll_corpse-common.toml"
@@ -949,6 +1005,22 @@ file = "config/solonion.json"
 hash = "105d00b0b515d8fff493d00768d95cc41d35d4ac24e08b075eebe2fae16b8f9f"
 
 [[files]]
+file = "config/sophisticatedcore-client.toml"
+hash = "12f65a872b73c931b0a192d7e95c7d89f7ef7f1fd33f3ee7ff6bbda12fb8845f"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "b1c4f8b0c6960ea62d700426962d76a73f5bf8ac02ebb04e3c3793f46e556af5"
+
+[[files]]
+file = "config/sophisticatedinventoryinteractions-client.toml"
+hash = "598929bea3df1aec6078fee1e41e83cded42706062853f45945b8f7b4837e15d"
+
+[[files]]
+file = "config/sophisticatedinventoryinteractions-common.toml"
+hash = "39097720b4d16deef8bd47ae8acc2f6de6aa704038b1a21470db2ce80a924419"
+
+[[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
 hash = "ebbac45fbb3ca01487b85ffee9601b213b71896e6606fb297bcb0f3ac9c30ffb"
 
@@ -989,6 +1061,10 @@ file = "config/sparsestructures.json5"
 hash = "bcdbf95d0b920eee5e12eb7c421f9d6476e4bbfd75bf7542185c6b30dd63d7e6"
 
 [[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "0a19036936420b0045fab196758eacb65f31e8560d41b858a6afebe63208f4a0"
+
+[[files]]
 file = "config/ssrd-common.toml"
 hash = "f02c4f19736ba21f48c0100128ad3208d2cec4e2fae2fa52b3a3b8639cc69c3c"
 
@@ -1025,12 +1101,44 @@ file = "config/trimseffects-config2.json"
 hash = "937cd9b6aae0a1fcda7a0d1ac1ba1e958bac42749cdeeea3002c70182ed35e60"
 
 [[files]]
+file = "config/universalbonemeal-server.toml"
+hash = "3338c2b5b41bcaeedf2fc3f304f824f18740db05d3bab094ad2c8e1320511387"
+
+[[files]]
 file = "config/upgrade_aquatic-client.toml"
 hash = "3825d9207e68afb1b0950db3901e87772bf43d057850311d51549a427df2031f"
 
 [[files]]
 file = "config/upgrade_aquatic-common.toml"
 hash = "54a5d5af64899fa48cc385aeca1908df4c486e000726a34400dd5a96a89f14e5"
+
+[[files]]
+file = "config/visuality/config.toml"
+hash = "56a48921d0cd2a5726aa9dbfc8e0ffd2b0b3a044b3e4b7f3503bacb834cf4480"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_ambient.json"
+hash = "31256c49b79b217e17f3dfffe7a7a27578e8516c21f9905dd4b9c70d5e3abd35"
+
+[[files]]
+file = "config/visuality/particle_emitters/block_step.json"
+hash = "54d4448f6c45ba1ad311f6c35b55b9b800ad4ae664f075707e05cd798b6eab7b"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_armor.json"
+hash = "83bcfff6c0eaf573b3cef8fd85e7045b66c91c7a5bf0415942d77c45476e23cc"
+
+[[files]]
+file = "config/visuality/particle_emitters/entity_hit.json"
+hash = "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "d4618e607b629668b7f10e8641667c2104799627546173a142f45317f773b7d3"
+
+[[files]]
+file = "config/visualworkbench-server.toml"
+hash = "31e78df15ea394de05862d3b24c5031ea3eddf102cd117834f62acd3491314e6"
 
 [[files]]
 file = "config/whitenoise-client.toml"
@@ -1058,7 +1166,7 @@ hash = "7f1e58be2cf7db18181869804bb09823ee93a4ea863d560036e8a05954bcf806"
 
 [[files]]
 file = "dynamic-data-pack-cache/hash.txt"
-hash = "5058a43f8bf35fe9f54cd6b58ca9373b870a3a224fb8d638094cdbba9d9384fc"
+hash = "30c0645ad423cb15dacb2641095d8fde36b44b395dc877aec56d7e8883ed5876"
 
 [[files]]
 file = "map_atlases/singleplayer/the vivid rocks-ptzsvx.nbt"
@@ -1525,6 +1633,11 @@ hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
 
 [[files]]
+file = "mods/farmers-cutting-quark.pw.toml"
+hash = "f725640348e9ae5af4edd59d1498fc7c08e58dddc29e1dd41056432a93d2737e"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
@@ -1542,6 +1655,16 @@ metafile = true
 [[files]]
 file = "mods/foxified-dense-flowers.pw.toml"
 hash = "ec7ce7aece601dd575d1e96253fadbb13d31002f38f1da889954e12fa8f5c385"
+metafile = true
+
+[[files]]
+file = "mods/fwa.pw.toml"
+hash = "3d8367a300c9058a2d97aaea91b42d91ffae892cbffcd774417c4b4c306ca311"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
@@ -1592,11 +1715,6 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
 
 [[files]]
@@ -1652,11 +1770,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-furniture-another-furniture-handcrafted-create-sable.pw.toml"
 hash = "9025a1b7ce5b2ac80188b05ee59eacdb8694221f32ef2f4ed019567e9ea0b364"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]
@@ -1820,6 +1933,26 @@ hash = "7bf7c8369bd28212a1e294c60310ccb72f1eb773630970e6ab106ae666766cd3"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
+metafile = true
+
+[[files]]
+file = "mods/particle-effects.pw.toml"
+hash = "0c7c5575796809309d1e42a9e26ee5b2b1f0b540cd3feb8af25c2f748b948bc7"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "a5002024b70bba96cdcfdec654d7b224f5386da01b992e8c71225effe7cd8351"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "383d9891f716981f418f6e2a97a5eeeee43912975d90d9ab4ffbfe98a832e40e"
+metafile = true
+
+[[files]]
 file = "mods/personality!.pw.toml"
 hash = "1fe435750e9ada72bd54b4d1124088e8e9f6401d7710b296b86e8030cf0098cb"
 metafile = true
@@ -1827,6 +1960,16 @@ metafile = true
 [[files]]
 file = "mods/pet-cemetery.pw.toml"
 hash = "f54003416e887882952b9a07e339829362c2c597ccd2d651c0a03d2120fb8a3a"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "49c0bacf8e4cb3ade6c384ad379282f92d7fa3075f2affd8e3093feb685288dd"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "d935e4ce118d15c88b10809df85e801f0e9577855f870f3c28e5a0bd5e7fecf6"
 metafile = true
 
 [[files]]
@@ -1847,6 +1990,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "8882572e1eee8dad7cca2cbe1b07c770b0e51a233f7ff3d7be6c454cad28042a"
+metafile = true
+
+[[files]]
+file = "mods/quarkponders.pw.toml"
+hash = "15606a3d97ced1803b6aa5e48d247a44e608d7a5352c405df343823f47f40fd7"
 metafile = true
 
 [[files]]
@@ -1975,6 +2123,11 @@ hash = "6d22056366c7d5e3a8a79a8549a4b7209702d021590d8b3003de525f1bf29a63"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "03c32079e39cf21efb8d0b5f0d24f004b9221c1455d460fdcb621821f7285239"
+metafile = true
+
+[[files]]
 file = "mods/ssrd.pw.toml"
 hash = "aa584566e7edf979e1cc8ea3c5d812224c8223add42fa06f8c3d81a84b88ed57"
 metafile = true
@@ -2020,6 +2173,11 @@ hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "36451170388b68c89ba69f5f2bd4fd283d1811a3d9b5e31281a424f9ca6f61a7"
+metafile = true
+
+[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "c5ca24c184e37a29d5c6f1d244f0fd80e0f615723d35b4d0e04bcbd97d9bb8e4"
 metafile = true
@@ -2027,6 +2185,21 @@ metafile = true
 [[files]]
 file = "mods/velvet-api.pw.toml"
 hash = "689739dbc65768a51d31729598352c5cac3fd9369203bea125d745112bba23b0"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "2684f71394862cff4c20d0f4d8491c0f86f12e66879381295e9088e0eded025d"
+metafile = true
+
+[[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "3d907a6ec6e27ba52d9f8f062216b56aef39e586a4e673cfbb70dbe12671ec61"
+metafile = true
+
+[[files]]
+file = "mods/woodworks-quark-compat.pw.toml"
+hash = "4790274a1c45d376f6779ef405236a8df4a28a5c59230126c55a18465ee4af91"
 metafile = true
 
 [[files]]
@@ -2102,3 +2275,7 @@ metafile = true
 [[files]]
 file = "moonlight-global-datapacks/packpatches.zip"
 hash = "e35abe463ea5cc7967e7f8ebbbcdf9ba8c61fc69b90cd23a5016924020144c4b"
+
+[[files]]
+file = "particular_cache/sp_Dramatic_Fountain_of_Oil/cascades/minecraft/overworld.dat"
+hash = "40828092a8a836d08a6ba88a19244e1099d384faf54d3ca2f598e68296e3633f"
