@@ -32,6 +32,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## aero_cam_sync
+<!-- packreg:auto -->
+- File: `aero_cam_sync-1.4.0.jar`
+- Source: modrinth (`ZGxtWu73`)
+- Side: both
+- Version id: `UbgVQ0qd`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack -->camera is level with sable contraptions
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## aeronautics-wind-sound
 <!-- packreg:auto -->
 - File: `aeronautics_windsound-1.0.1.jar`
@@ -124,6 +137,20 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## amendments
+<!-- packreg:auto -->
+- File: `amendments-1.21-2.1.10-neoforge.jar`
+- Source: modrinth (`6iTJugQR`)
+- Side: both
+- Version id: `OYfMeeUK`
+- CHECK: filename mentions 1.21 but pack targets 1.21.1
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> little vanilla + additions
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 1.21 but pack targets 1.21.1
+
 ## amplified-nether
 <!-- packreg:auto -->
 - File: `Amplified_Nether_26.2_v1.2.16.jar`
@@ -154,9 +181,9 @@ is here, that is the finding.
 ## architectury-api
 <!-- packreg:auto -->
 - File: `architectury-13.0.11-neoforge.jar`
-- Source: modrinth (`lhGA9TYQ`)
+- Source: curseforge (`419699`)
 - Side: both
-- Version id: `1IiqEQGl`
+- Version id: `8492726`
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack -->library mod
@@ -202,6 +229,19 @@ is here, that is the finding.
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->  nothing
 **Config:** <!-- what you changed away from defaults -->  
 **Conflicts:** <!-- known overlaps and how they were resolved --> see blueprint
+
+## azimuth-api
+<!-- packreg:auto -->
+- File: `azimuth-1.4.8.jar`
+- Source: modrinth (`RpH8tmT1`)
+- Side: both
+- Version id: `82WgkpfK`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
 
 ## barrenskies
 <!-- packreg:auto -->
@@ -426,6 +466,32 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## certain-questing-additions
+<!-- packreg:auto -->
+- File: `certain_questing_additions-neoforge-1.2.0.4+mc1.21.1.jar`
+- Source: modrinth (`5BPpCYUe`)
+- Side: client
+- Version id: `P6og8Sjk`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> FTB quests addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## chalk-mod
+<!-- packreg:auto -->
+- File: `chalk-neoforge-1.21.1-2.0.2.jar`
+- Source: modrinth (`YWGP4Y1d`)
+- Side: both
+- Version id: `c9La5ZxO`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> you can mark walls
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## chatanimation
 <!-- packreg:auto -->
 - File: `chatanimation-neoforge-1.3.1+mc1.21.jar`
@@ -515,6 +581,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> campfires give a buff
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## comforts
+<!-- packreg:auto -->
+- File: `comforts-neoforge-9.0.5+1.21.1.jar`
+- Source: modrinth (`SaCpeal4`)
+- Side: both
+- Version id: `3kpPjcTc`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds things like hammoks and sleeping bags
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -664,6 +743,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## create-aero-radars
+<!-- packreg:auto -->
+- File: `create_aero_radar-0.1.1-1.21.1.jar`
+- Source: modrinth (`Gxj4Ihed`)
+- Side: both
+- Version id: `uDnC1TSw`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## create-aeronautics
 <!-- packreg:auto -->
 - File: `create-aeronautics-bundled-1.21.1-1.3.2.jar`
@@ -677,6 +769,19 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## create-aeronautics-climbable-rope
+<!-- packreg:auto -->
+- File: `climbable_ropes-2.1.3.jar`
+- Source: modrinth (`jImqv1M5`)
+- Side: both
+- Version id: `bdgQsUVU`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> title
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## create-aeronautics-encased-fluid-pipes
 <!-- packreg:auto -->
 - File: `aeroencasedpipe-1.0.7.jar`
@@ -686,6 +791,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-aeronautics-gadgets-and-gizmos
+<!-- packreg:auto -->
+- File: `createthrusters-bundled-V1.1.3.jar`
+- Source: modrinth (`Sza3GgEL`)
+- Side: both
+- Version id: `vQlkDgnK`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create aero addon
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -742,6 +860,32 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## create-big-cannons-going-ballistic
+<!-- packreg:auto -->
+- File: `cbc_going_ballistic-0.3.1.jar`
+- Source: modrinth (`xxaCKdq3`)
+- Side: both
+- Version id: `KPczpdLq`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-bits-n-bobs
+<!-- packreg:auto -->
+- File: `bits_n_bobs-2.3.2.jar`
+- Source: modrinth (`T8bvmqVZ`)
+- Side: both
+- Version id: `4myEhNeB`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
 ## create-central-kitchen
 <!-- packreg:auto -->
 - File: `create-central-kitchen-2.6.0.jar`
@@ -751,6 +895,32 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-coasters-simulated
+<!-- packreg:auto -->
+- File: `simulatedcoasters-0.1.5.jar`
+- Source: modrinth (`W1ZUfWdr`)
+- Side: both
+- Version id: `PGhQoSBq`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> ROLLER COASTERS
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-compatible-storage
+<!-- packreg:auto -->
+- File: `create_compatible_storage-2.13.0-mc1.21.1-neoforge.jar`
+- Source: modrinth (`5ofroZ5W`)
+- Side: both
+- Version id: `KnL9gDAD`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -842,6 +1012,111 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> create addon
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-encased
+<!-- packreg:auto -->
+- File: `Create Encased-1.21.1-1.9.0-ht3.jar`
+- Source: modrinth (`hSSqdyU1`)
+- Side: both
+- Version id: `t6MATlU9`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> encase cogs n stuff
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-jetpack
+<!-- packreg:auto -->
+- File: `create_jetpack-forge-5.2.1.jar`
+- Source: modrinth (`UbFnAd4l`)
+- Side: both
+- Version id: `sCwiqLqq`
+- CHECK: filename mentions 'forge', pack targets 'neoforge'
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> adds a jetpack
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 'forge', pack targets 'neoforge'
+
+## create-power-loader
+<!-- packreg:auto -->
+- File: `create_power_loader-2.0.5-mc1.21.1.jar`
+- Source: modrinth (`wPQ6GgFE`)
+- Side: both
+- Version id: `3Y4r0ItR`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create powered chunk loader
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-radars
+<!-- packreg:auto -->
+- File: `create_radar-0.4.9.4-1.21.1.jar`
+- Source: modrinth (`BLu2Yqfq`)
+- Side: both
+- Version id: `AntNFNAx`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> cool radar addon for create
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-sound-of-steam
+<!-- packreg:auto -->
+- File: `pipeorgans-0.8.2+1.21.1.jar`
+- Source: modrinth (`yGttHo06`)
+- Side: both
+- Version id: `iFePoN10`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> whistle addon for create 
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-sound-of-steam-tuning-wrench
+<!-- packreg:auto -->
+- File: `tuningwrench-1.1.0-1.21.1.jar`
+- Source: modrinth (`Nz9jiNeA`)
+- Side: both
+- Version id: `eSBB1Bvs`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> title
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-tweaked-controllers
+<!-- packreg:auto -->
+- File: `create_tweaked_controllers-1.21.1-1.2.7.jar`
+- Source: modrinth (`H6bJ8Ju4`)
+- Side: both
+- Version id: `csCe2v7f`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> fancier linked controllers
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## create-vibrant-vaults
+<!-- packreg:auto -->
+- File: `create_vibrant_vaults-0.3.2.jar`
+- Source: modrinth (`hddN8ksR`)
+- Side: both
+- Version id: `t17qYXjn`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> create vault variants 
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -1356,6 +1631,71 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> RP
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## ftb-library-forge
+<!-- packreg:auto -->
+- File: `ftb-library-neoforge-2101.1.35.jar`
+- Source: curseforge (`404465`)
+- Side: both
+- Version id: `8569579`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## ftb-quests-forge
+<!-- packreg:auto -->
+- File: `ftb-quests-neoforge-2101.1.35.jar`
+- Source: curseforge (`289412`)
+- Side: both
+- Version id: `8842729`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> the big questing mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## ftb-quests-optimizer
+<!-- packreg:auto -->
+- File: `FTBQuestsOptimizer-neoforge-3.2.0-1.21.1.jar`
+- Source: modrinth (`oPwMsrcf`)
+- Side: both
+- Version id: `T0bGa7Hg`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> title
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## ftb-teams-forge
+<!-- packreg:auto -->
+- File: `ftb-teams-neoforge-2101.1.11.jar`
+- Source: curseforge (`404468`)
+- Side: both
+- Version id: `8724782`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## ftb-xmod-compat
+<!-- packreg:auto -->
+- File: `ftb-xmod-compat-neoforge-21.1.11.jar`
+- Source: curseforge (`889915`)
+- Side: both
+- Version id: `8653466`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> compat 
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
@@ -2196,6 +2536,20 @@ is here, that is the finding.
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->
 
+## playeranimator
+<!-- packreg:auto -->
+- File: `player-animation-lib-forge-2.0.4+1.21.1.jar`
+- Source: modrinth (`gedNE4y2`)
+- Side: both
+- Version id: `HJZB6bmA`
+- CHECK: filename mentions 'forge', pack targets 'neoforge'
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved --> filename mentions 'forge', pack targets 'neoforge'
+
 ## polymorph
 <!-- packreg:auto -->
 - File: `polymorph-neoforge-1.2.0+1.21.1.jar`
@@ -2652,6 +3006,19 @@ is here, that is the finding.
 <!-- /packreg:auto -->
 
 **Purpose:** <!-- why this mod is in the pack --> structure generation config
+**Owns:** <!-- which system it is the authority for, or 'nothing' -->
+**Config:** <!-- what you changed away from defaults -->
+**Conflicts:** <!-- known overlaps and how they were resolved -->
+
+## strut-your-stuff
+<!-- packreg:auto -->
+- File: `struts-1.3.1.jar`
+- Source: modrinth (`sHO3MhQx`)
+- Side: both
+- Version id: `BOTN7zzN`
+<!-- /packreg:auto -->
+
+**Purpose:** <!-- why this mod is in the pack --> lib mod 
 **Owns:** <!-- which system it is the authority for, or 'nothing' -->
 **Config:** <!-- what you changed away from defaults -->
 **Conflicts:** <!-- known overlaps and how they were resolved -->

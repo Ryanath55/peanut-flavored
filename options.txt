@@ -48,7 +48,7 @@ mouseSensitivity:0.352112676056338
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Better+Lanterns+v1.2(mc-1.21).zip","file/Better-Leaves-9.5.zip","file/Fancy Crops v1.3.zip","file/FreshAnimations_v1.10.4.zip","file/FA+All_Extensions-v1.8.1.zip","file/Os\u0027 Colorful Grasses (Short and Fluffy).zip","file/Simple Grass Flowers v2.0.0.zip","file/SodiumTranslations.zip","file/cubic-sun-moon-v1.8.5.zip","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Better+Lanterns+v1.2(mc-1.21).zip","file/Better-Leaves-9.5.zip","file/Fancy Crops v1.3.zip","file/FreshAnimations_v1.10.4.zip","file/Os\u0027 Colorful Grasses (Short and Fluffy).zip","file/Simple Grass Flowers v2.0.0.zip","file/SodiumTranslations.zip","file/cubic-sun-moon-v1.8.5.zip","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

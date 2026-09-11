@@ -84,6 +84,20 @@
 		[types.leaves_type.upgrade_aquatic]
 			river = true
 
+		[types.cake.dungeonsdelight]
+			monster_cake = true
+
+		[types.cake.neapolitan]
+			vanilla_cake = true
+			chocolate_cake = true
+			strawberry_cake = true
+			banana_cake = true
+			mint_cake = true
+			adzuki_cake = true
+
+		[types.lantern.dungeonsdelight]
+			living_lantern = true
+
 		[entries.wood_type.create]
 			window = true
 			window_pane = true
